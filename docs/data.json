@@ -1,10 +1,8 @@
 {
-  "date": "2025-01-01",
-  "updated": "2025-01-01T00:00:00",
-  "sources_checked": 0,
-  "articles_processed": 0,
-  "market_sentiment": "neutral",
-  "daily_summary": "No data yet. Run the GitHub Action to generate today's brief.",
-  "key_themes": [],
-  "top_stories": []
+  "date": "2026-06-19",
+  "error": "Groq processing failed",
+  "raw_count": 26,
+  "updated": "2026-06-19T02:55:34.321047",
+  "sources_checked": 7,
+  "articles_processed": 26
 }
