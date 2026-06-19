@@ -63,56 +63,49 @@ def keyword_filter(news_list):
 def groq_filter_and_summarize(news_list):
     """Layer 2: Groq scores importance and summarizes top news"""
     if not news_list:
-        return []
+        print("No articles to process.")
+        return None
 
-    # Prepare headlines for Groq
     headlines = "\n".join([
         f"{i+1}. [{item['source']}] {item['title']}"
-        for i, item in enumerate(news_list[:40])
+        for i, item in enumerate(news_list[:30])
     ])
 
-    prompt = f"""You are a senior financial analyst. Today's date: {datetime.now().strftime('%Y-%m-%d')}.
+    prompt = f"""You are a senior financial analyst. Date: {datetime.now().strftime('%Y-%m-%d')}.
 
-Below are finance news headlines. Your job:
-1. Score each from 1-10 (market impact importance)
-2. Keep only score 7 or above
-3. Group them into categories
-4. Write a brief insight for each
+Analyze these finance headlines and return ONLY raw JSON (no markdown, no backticks, no explanation):
 
 Headlines:
 {headlines}
 
-Return ONLY this JSON format, no extra text:
-{{
-  "date": "{datetime.now().strftime('%Y-%m-%d')}",
-  "top_stories": [
-    {{
-      "rank": 1,
-      "title": "headline",
-      "source": "source name",
-      "category": "Fed Policy / Inflation / Banking / Markets / Earnings / Global",
-      "importance_score": 9,
-      "insight": "Why this matters in 1-2 sentences"
-    }}
-  ],
-  "daily_summary": "Overall market narrative for today in 3-4 sentences",
-  "key_themes": ["theme1", "theme2", "theme3"],
-  "market_sentiment": "bullish/bearish/neutral/mixed"
-}}"""
+Return this exact JSON structure:
+{{"date":"{datetime.now().strftime('%Y-%m-%d')}","top_stories":[{{"rank":1,"title":"example","source":"example","category":"Markets","importance_score":8,"insight":"Why this matters."}}],"daily_summary":"Summary here.","key_themes":["theme1","theme2"],"market_sentiment":"neutral"}}
+
+Rules:
+- Only include stories with importance_score 7 or above
+- category must be one of: Fed Policy, Inflation, Banking, Markets, Earnings, Global
+- Return ONLY the JSON object, nothing else"""
 
     try:
         response = client.chat.completions.create(
-            model="llama-3.1-70b-versatile",
+            model="llama3-70b-8192",
             messages=[{"role": "user", "content": prompt}],
-            max_tokens=2000
+            max_tokens=2000,
+            temperature=0.1
         )
         raw = response.choices[0].message.content.strip()
-        # Clean JSON
-        if "```json" in raw:
-            raw = raw.split("```json")[1].split("```")[0].strip()
-        elif "```" in raw:
-            raw = raw.split("```")[1].split("```")[0].strip()
-        return json.loads(raw)
+        print(f"Groq raw response (first 200 chars): {raw[:200]}")
+
+        # Aggressive JSON extraction
+        raw = raw.replace("```json", "").replace("```", "").strip()
+        start = raw.find("{")
+        end = raw.rfind("}") + 1
+        if start != -1 and end > start:
+            raw = raw[start:end]
+
+        result = json.loads(raw)
+        print(f"Groq success: {len(result.get('top_stories', []))} stories")
+        return result
     except Exception as e:
         print(f"Groq error: {e}")
         return None
