@@ -1,8 +1,55 @@
 {
   "date": "2026-06-19",
-  "error": "Groq processing failed",
-  "raw_count": 27,
-  "updated": "2026-06-19T03:02:03.997262",
+  "top_stories": [
+    {
+      "rank": 1,
+      "title": "Markets are set for a much more hawkish Warsh Fed than expected",
+      "source": "CNBC Finance",
+      "category": "Fed Policy",
+      "importance_score": 9,
+      "insight": "This indicates a potential shift in monetary policy, affecting interest rates and the overall economy."
+    },
+    {
+      "rank": 2,
+      "title": "Fed holds rates steady, pares down statement to remove cutting bias",
+      "source": "CNBC Finance",
+      "category": "Fed Policy",
+      "importance_score": 9,
+      "insight": "The decision to hold rates steady and remove the cutting bias suggests a more hawkish stance from the Fed."
+    },
+    {
+      "rank": 3,
+      "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
+      "source": "CNBC Finance",
+      "category": "Fed Policy",
+      "importance_score": 9,
+      "insight": "The changes to the Fed rate statement imply a significant shift in the central bank's approach to monetary policy."
+    },
+    {
+      "rank": 4,
+      "title": "Goldman Says UK’s Sterling Now the Most Overvalued G10 Currency",
+      "source": "Bloomberg Markets",
+      "category": "Markets",
+      "importance_score": 8,
+      "insight": "This assessment may impact currency trading and investment decisions."
+    },
+    {
+      "rank": 5,
+      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+      "source": "WSJ Markets",
+      "category": "Markets",
+      "importance_score": 8,
+      "insight": "The AI rout may have far-reaching consequences for the tech industry and the broader market."
+    }
+  ],
+  "daily_summary": "The financial markets are experiencing significant developments, with the Fed adopting a more hawkish stance and the impact of AI on the market becoming more apparent. Currency valuations and stock prices are also being affected by various factors.",
+  "key_themes": [
+    "Fed Policy",
+    "Market Volatility",
+    "Currency Valuations"
+  ],
+  "market_sentiment": "cautious",
+  "updated": "2026-06-19T03:25:02.679134",
   "sources_checked": 7,
-  "articles_processed": 27
+  "articles_processed": 25
 }
