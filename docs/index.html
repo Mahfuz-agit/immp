@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>US Finance Daily Brief</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', sans-serif; background: #f0f4f8; color: #1a202c; }
+
+  .header { background: #1a365d; color: white; padding: 20px 24px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; }
+  .header h1 { font-size: 18px; font-weight: 700; }
+  .header .meta { font-size: 11px; opacity: 0.7; }
+
+  .summary-bar { background: white; padding: 16px 24px; border-bottom: 1px solid #e2e8f0; }
+  .summary-text { font-size: 13px; color: #4a5568; line-height: 1.7; max-width: 800px; }
+
+  .themes { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
+  .theme-tag { background: #ebf8ff; color: #2b6cb0; padding: 4px 12px; border-radius: 20px; font-size: 11px; font-weight: 600; }
+
+  .sentiment-bar { display: flex; gap: 8px; align-items: center; margin-top: 10px; }
+  .sentiment-label { font-size: 11px; font-weight: 700; text-transform: uppercase; padding: 4px 12px; border-radius: 20px; }
+  .bullish { background: #c6f6d5; color: #276749; }
+  .bearish { background: #fed7d7; color: #9b2c2c; }
+  .neutral { background: #fefcbf; color: #744210; }
+  .mixed { background: #e9d8fd; color: #553c9a; }
+
+  .controls { padding: 16px 24px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  .search { padding: 8px 14px; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 13px; width: 220px; }
+  .filter-btn { padding: 6px 14px; border: 1px solid #e2e8f0; background: white; border-radius: 20px; font-size: 12px; cursor: pointer; font-weight: 600; color: #4a5568; }
+  .filter-btn.active { background: #1a365d; color: white; border-color: #1a365d; }
+
+  .cards { padding: 0 24px 24px; display: grid; gap: 12px; }
+
+  .card { background: white; border-radius: 10px; padding: 16px 18px; border-left: 4px solid #1a365d; box-shadow: 0 1px 3px rgba(0,0,0,0.07); }
+  .card-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; flex-wrap: wrap; }
+  .card-title { font-size: 14px; font-weight: 700; color: #1a202c; line-height: 1.4; flex: 1; }
+  .score { background: #1a365d; color: white; padding: 2px 8px; border-radius: 6px; font-size: 11px; font-weight: 700; white-space: nowrap; }
+  .score.high { background: #276749; }
+  .score.medium { background: #c05621; }
+
+  .card-meta { display: flex; gap: 8px; margin-top: 8px; flex-wrap: wrap; align-items: center; }
+  .source-tag { background: #f7fafc; border: 1px solid #e2e8f0; padding: 2px 8px; border-radius: 6px; font-size: 11px; color: #718096; }
+  .category-tag { background: #ebf8ff; color: #2b6cb0; padding: 2px 8px; border-radius: 6px; font-size: 11px; font-weight: 600; }
+
+  .insight { font-size: 13px; color: #4a5568; line-height: 1.6; margin-top: 10px; }
+
+  .loading { text-align: center; padding: 60px; color: #718096; font-size: 14px; }
+  .error { background: #fff5f5; border: 1px solid #feb2b2; border-radius: 8px; padding: 16px; margin: 24px; color: #c53030; font-size: 13px; }
+
+  .stats { display: flex; gap: 16px; padding: 12px 24px; background: white; border-bottom: 1px solid #e2e8f0; flex-wrap: wrap; }
+  .stat { font-size: 12px; color: #718096; }
+  .stat strong { color: #1a365d; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div>
+    <h1>US Finance Daily Brief</h1>
+    <div class="meta" id="updated">Loading...</div>
+  </div>
+  <div class="meta" id="stats-header"></div>
+</div>
+
+<div id="summary-section" class="summary-bar" style="display:none">
+  <div class="sentiment-bar">
+    <span style="font-size:12px;color:#718096;">Market Sentiment:</span>
+    <span class="sentiment-label" id="sentiment-badge"></span>
+  </div>
+  <div class="summary-text" id="daily-summary"></div>
+  <div class="themes" id="themes"></div>
+</div>
+
+<div class="stats" id="stats-bar" style="display:none">
+  <div class="stat">Sources checked: <strong id="s-sources"></strong></div>
+  <div class="stat">Articles processed: <strong id="s-articles"></strong></div>
+  <div class="stat">Top stories: <strong id="s-stories"></strong></div>
+</div>
+
+<div class="controls">
+  <input class="search" id="search" placeholder="Search stories..." oninput="render()">
+  <button class="filter-btn active" onclick="setFilter('all',this)">All</button>
+  <button class="filter-btn" onclick="setFilter('Fed Policy',this)">Fed Policy</button>
+  <button class="filter-btn" onclick="setFilter('Inflation',this)">Inflation</button>
+  <button class="filter-btn" onclick="setFilter('Banking',this)">Banking</button>
+  <button class="filter-btn" onclick="setFilter('Markets',this)">Markets</button>
+  <button class="filter-btn" onclick="setFilter('Earnings',this)">Earnings</button>
+</div>
+
+<div class="cards" id="cards">
+  <div class="loading">Loading today's finance brief...</div>
+</div>
+
+<script>
+let allStories = [];
+let currentFilter = 'all';
+
+fetch('data.json?t=' + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    if (data.error) {
+      document.getElementById('cards').innerHTML =
+        `<div class="error">Data error: ${data.error}</div>`;
+      return;
+    }
+
+    // Updated time
+    const d = new Date(data.updated);
+    document.getElementById('updated').textContent =
+      'Last updated: ' + d.toLocaleString('en-US', {dateStyle:'medium', timeStyle:'short'});
+
+    // Summary
+    if (data.daily_summary) {
+      document.getElementById('summary-section').style.display = 'block';
+      document.getElementById('daily-summary').textContent = data.daily_summary;
+      const badge = document.getElementById('sentiment-badge');
+      badge.textContent = (data.market_sentiment || 'neutral').toUpperCase();
+      badge.className = 'sentiment-label ' + (data.market_sentiment || 'neutral');
+    }
+
+    // Themes
+    if (data.key_themes) {
+      document.getElementById('themes').innerHTML =
+        data.key_themes.map(t => `<span class="theme-tag">${t}</span>`).join('');
+    }
+
+    // Stats
+    document.getElementById('stats-bar').style.display = 'flex';
+    document.getElementById('s-sources').textContent = data.sources_checked || '-';
+    document.getElementById('s-articles').textContent = data.articles_processed || '-';
+    document.getElementById('s-stories').textContent = (data.top_stories || []).length;
+
+    allStories = data.top_stories || [];
+    render();
+  })
+  .catch(() => {
+    document.getElementById('cards').innerHTML =
+      `<div class="error">Could not load data.json. Run the GitHub Action first.</div>`;
+  });
+
+function setFilter(f, btn) {
+  currentFilter = f;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  render();
+}
+
+function render() {
+  const q = document.getElementById('search').value.toLowerCase();
+  const filtered = allStories.filter(s => {
+    const matchFilter = currentFilter === 'all' ||
+      (s.category || '').toLowerCase().includes(currentFilter.toLowerCase());
+    const matchSearch = !q ||
+      s.title.toLowerCase().includes(q) ||
+      (s.insight || '').toLowerCase().includes(q) ||
+      (s.category || '').toLowerCase().includes(q);
+    return matchFilter && matchSearch;
+  });
+
+  if (!filtered.length) {
+    document.getElementById('cards').innerHTML =
+      '<div class="loading">No stories found.</div>';
+    return;
+  }
+
+  document.getElementById('cards').innerHTML = filtered.map(s => {
+    const score = s.importance_score || 0;
+    const scoreClass = score >= 9 ? 'high' : score >= 7 ? 'medium' : '';
+    return `
+      <div class="card">
+        <div class="card-top">
+          <div class="card-title">${s.title}</div>
+          <div class="score ${scoreClass}">${score}/10</div>
+        </div>
+        <div class="card-meta">
+          <span class="source-tag">${s.source || ''}</span>
+          <span class="category-tag">${s.category || ''}</span>
+        </div>
+        <div class="insight">${s.insight || ''}</div>
+      </div>`;
+  }).join('');
+}
+</script>
+</body>
+</html>
