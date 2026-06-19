@@ -1,6 +1,6 @@
 name: Finance News Tracker
 
-on:
+"on":
   schedule:
     - cron: '0 23 * * *'   # 11 PM UTC = 5 AM BD
   workflow_dispatch:         # Manual run button
