@@ -1,1 +1,37 @@
+name: Finance News Tracker
 
+on:
+  schedule:
+    - cron: '0 23 * * *'   # 11 PM UTC = 5 AM BD
+  workflow_dispatch:         # Manual run button
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tracker
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python tracker.py
+
+      - name: Save data to repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add docs/data.json
+          git commit -m "Daily update: $(date +%Y-%m-%d)" || echo "No changes"
+          git push
