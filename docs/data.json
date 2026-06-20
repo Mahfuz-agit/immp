@@ -11,27 +11,27 @@
     },
     {
       "rank": 2,
-      "title": "Chairman Warsh abstains from giving rate forecast as several members signal a hike in 2026",
-      "source": "CNBC Finance",
-      "category": "Fed Policy",
-      "importance_score": 9,
-      "insight": "The lack of a clear rate forecast and potential hike in 2026 creates uncertainty for investors and the market."
-    },
-    {
-      "rank": 3,
       "title": "Fed holds rates steady, pares down statement to remove cutting bias",
       "source": "CNBC Finance",
       "category": "Fed Policy",
-      "importance_score": 8,
-      "insight": "This decision suggests the Fed is taking a more cautious approach to monetary policy, which may impact economic growth."
+      "importance_score": 9,
+      "insight": "The decision to hold rates steady and remove the cutting bias suggests a more neutral stance from the Fed."
+    },
+    {
+      "rank": 3,
+      "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
+      "source": "CNBC Finance",
+      "category": "Fed Policy",
+      "importance_score": 9,
+      "insight": "The changes to the Fed rate statement may indicate a shift in the Fed's approach to monetary policy."
     },
     {
       "rank": 4,
-      "title": "Gold Set for Weekly Loss on Hawkish Fed and Peace Deal Jitters",
+      "title": "South Africa’s Kganyago Warns Inflation Expectations Are Rising",
       "source": "Bloomberg Markets",
-      "category": "Markets",
+      "category": "Inflation",
       "importance_score": 8,
-      "insight": "The hawkish Fed stance and peace deal concerns are affecting gold prices, which can be an indicator of market sentiment."
+      "insight": "Rising inflation expectations in South Africa may lead to changes in monetary policy."
     },
     {
       "rank": 5,
@@ -39,17 +39,17 @@
       "source": "WSJ Markets",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "The AI rout and its impact on stocks demonstrate the growing influence of technology on the market."
+      "insight": "The AI rout may have a significant impact on the stock market and the technology sector."
     }
   ],
-  "daily_summary": "The financial market is experiencing a shift due to the new Fed Chair Warsh's hawkish stance, with potential implications for interest rates, economic growth, and investor sentiment. The market is also reacting to other factors such as the AI rout and peace deal concerns.",
+  "daily_summary": "The financial markets are experiencing significant developments, with the Fed's hawkish stance and changes to the rate statement being major factors. Inflation expectations are rising in South Africa, and the stock market is experiencing a broad AI rout.",
   "key_themes": [
     "Fed Policy",
-    "Market Volatility",
-    "Economic Growth"
+    "Inflation",
+    "Markets"
   ],
   "market_sentiment": "cautious",
-  "updated": "2026-06-20T10:16:06.750099",
+  "updated": "2026-06-20T16:23:33.394319",
   "sources_checked": 7,
-  "articles_processed": 20
+  "articles_processed": 25
 }
