@@ -11,19 +11,19 @@
     },
     {
       "rank": 2,
-      "title": "Fed holds rates steady, pares down statement to remove cutting bias",
+      "title": "Chairman Warsh abstains from giving rate forecast as several members signal a hike in 2026",
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "The removal of the cutting bias suggests a more hawkish stance, impacting market expectations and investor decisions."
+      "insight": "The lack of a clear rate forecast and potential hike in 2026 creates uncertainty for investors and the market."
     },
     {
       "rank": 3,
-      "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
+      "title": "Fed holds rates steady, pares down statement to remove cutting bias",
       "source": "CNBC Finance",
       "category": "Fed Policy",
-      "importance_score": 9,
-      "insight": "The changes in the Fed rate statement have significant implications for the economy, including potential effects on inflation and employment."
+      "importance_score": 8,
+      "insight": "This decision suggests the Fed is taking a more cautious approach to monetary policy, which may impact economic growth."
     },
     {
       "rank": 4,
@@ -31,50 +31,25 @@
       "source": "Bloomberg Markets",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "The hawkish Fed stance and peace deal jitters are contributing to a decline in gold prices, reflecting market uncertainty and risk aversion."
+      "insight": "The hawkish Fed stance and peace deal concerns are affecting gold prices, which can be an indicator of market sentiment."
     },
     {
       "rank": 5,
-      "title": "Global Stocks End Strong Week on Cautious Note",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
-      "importance_score": 8,
-      "insight": "The cautious note at the end of a strong week for global stocks suggests that investors are becoming more risk-averse, potentially leading to increased market volatility."
-    },
-    {
-      "rank": 6,
       "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
       "source": "WSJ Markets",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "The AI rout sparked by China's DeepSeek has significant implications for the tech industry and the broader market, highlighting the potential risks and uncertainties associated with emerging technologies."
-    },
-    {
-      "rank": 7,
-      "title": "Iran deal brings little relief for inflation-wary central banks",
-      "source": "Financial Times",
-      "category": "Inflation",
-      "importance_score": 8,
-      "insight": "The lack of relief for inflation-wary central banks suggests that inflationary pressures may persist, potentially leading to further monetary policy actions."
-    },
-    {
-      "rank": 8,
-      "title": "A Hawkish Fed And A Dovish SNB Are Driving Gains In USD/CHF",
-      "source": "Seeking Alpha",
-      "category": "Markets",
-      "importance_score": 7,
-      "insight": "The combination of a hawkish Fed and a dovish SNB is driving gains in the USD/CHF currency pair, reflecting the diverging monetary policy stances of the two central banks."
+      "insight": "The AI rout and its impact on stocks demonstrate the growing influence of technology on the market."
     }
   ],
-  "daily_summary": "The financial markets are responding to a more hawkish Fed stance, with implications for interest rates, inflation, and the overall economy. The removal of the cutting bias from the Fed rate statement and the alteration of the statement by Chairman Warsh have significant implications for market expectations and investor decisions. The gold market is also being affected, with prices declining due to the hawkish Fed stance and peace deal jitters. Global stocks are ending the week on a cautious note, while the AI rout sparked by China's DeepSeek is having a significant impact on the tech industry and the broader market.",
+  "daily_summary": "The financial market is experiencing a shift due to the new Fed Chair Warsh's hawkish stance, with potential implications for interest rates, economic growth, and investor sentiment. The market is also reacting to other factors such as the AI rout and peace deal concerns.",
   "key_themes": [
-    "Hawkish Fed",
-    "Inflation",
-    "Monetary Policy",
-    "Market Volatility"
+    "Fed Policy",
+    "Market Volatility",
+    "Economic Growth"
   ],
   "market_sentiment": "cautious",
-  "updated": "2026-06-20T04:34:58.426237",
+  "updated": "2026-06-20T10:16:06.750099",
   "sources_checked": 7,
-  "articles_processed": 24
+  "articles_processed": 20
 }
