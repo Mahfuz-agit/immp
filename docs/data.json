@@ -1,55 +1,55 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "top_stories": [
     {
       "rank": 1,
+      "title": "The riskiest SpaceX stock trade of all had a big first week",
+      "source": "CNBC Finance",
+      "category": "Markets",
+      "importance_score": 8,
+      "insight": "This story matters because it highlights the risks and potential rewards of investing in SpaceX stock."
+    },
+    {
+      "rank": 2,
       "title": "Markets are set for a much more hawkish Warsh Fed than expected",
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "This indicates a potential shift in monetary policy, affecting interest rates and the overall economy."
-    },
-    {
-      "rank": 2,
-      "title": "Fed holds rates steady, pares down statement to remove cutting bias",
-      "source": "CNBC Finance",
-      "category": "Fed Policy",
-      "importance_score": 9,
-      "insight": "The decision to hold rates steady and remove the cutting bias suggests a more neutral stance from the Fed."
+      "insight": "This story matters because it indicates a potential shift in the Fed's monetary policy, which could impact the overall market."
     },
     {
       "rank": 3,
+      "title": "Fed’s Favorite Gauge Is Seen Showing Faster Inflation",
+      "source": "Bloomberg Markets",
+      "category": "Inflation",
+      "importance_score": 8,
+      "insight": "This story matters because it suggests that inflation may be rising, which could impact the Fed's decision-making and the overall economy."
+    },
+    {
+      "rank": 4,
       "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "The changes to the Fed rate statement may indicate a shift in the Fed's approach to monetary policy."
-    },
-    {
-      "rank": 4,
-      "title": "South Africa’s Kganyago Warns Inflation Expectations Are Rising",
-      "source": "Bloomberg Markets",
-      "category": "Inflation",
-      "importance_score": 8,
-      "insight": "Rising inflation expectations in South Africa may lead to changes in monetary policy."
+      "insight": "This story matters because it highlights the changes in the Fed's rate statement, which could impact the market and the economy."
     },
     {
       "rank": 5,
-      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+      "title": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared",
       "source": "WSJ Markets",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "The AI rout may have a significant impact on the stock market and the technology sector."
+      "insight": "This story matters because it suggests that the traditional reward for taking on the risk of owning stocks may no longer be present, which could impact investment decisions."
     }
   ],
-  "daily_summary": "The financial markets are experiencing significant developments, with the Fed's hawkish stance and changes to the rate statement being major factors. Inflation expectations are rising in South Africa, and the stock market is experiencing a broad AI rout.",
+  "daily_summary": "The market is reacting to the new Fed chair's hawkish stance and the potential for rising inflation. Investors are also closely watching the performance of SpaceX stock and the overall market sentiment is neutral.",
   "key_themes": [
     "Fed Policy",
     "Inflation",
     "Markets"
   ],
-  "market_sentiment": "cautious",
-  "updated": "2026-06-20T16:23:33.394319",
+  "market_sentiment": "neutral",
+  "updated": "2026-06-21T10:56:37.169711",
   "sources_checked": 7,
-  "articles_processed": 25
+  "articles_processed": 31
 }
