@@ -1,55 +1,55 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "top_stories": [
     {
       "rank": 1,
-      "title": "The riskiest SpaceX stock trade of all had a big first week",
+      "title": "Alan Greenspan, former chairman of the Fed, dies at age 100",
       "source": "CNBC Finance",
-      "category": "Markets",
-      "importance_score": 8,
-      "insight": "This story matters because it highlights the risks and potential rewards of investing in SpaceX stock."
+      "category": "Fed Policy",
+      "importance_score": 9,
+      "insight": "The passing of Alan Greenspan marks the end of an era in monetary policy, with potential implications for future Fed decisions."
     },
     {
       "rank": 2,
       "title": "Markets are set for a much more hawkish Warsh Fed than expected",
       "source": "CNBC Finance",
       "category": "Fed Policy",
-      "importance_score": 9,
-      "insight": "This story matters because it indicates a potential shift in the Fed's monetary policy, which could impact the overall market."
+      "importance_score": 8,
+      "insight": "A hawkish Fed under Warsh could lead to increased interest rates, affecting the overall economy and markets."
     },
     {
       "rank": 3,
-      "title": "Fed’s Favorite Gauge Is Seen Showing Faster Inflation",
-      "source": "Bloomberg Markets",
-      "category": "Inflation",
-      "importance_score": 8,
-      "insight": "This story matters because it suggests that inflation may be rising, which could impact the Fed's decision-making and the overall economy."
-    },
-    {
-      "rank": 4,
       "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "This story matters because it highlights the changes in the Fed's rate statement, which could impact the market and the economy."
+      "insight": "Changes to the Fed rate statement may indicate a shift in monetary policy, influencing market expectations and investor decisions."
+    },
+    {
+      "rank": 4,
+      "title": "Stocks Fall as SpaceX’s Rout Offsets US-Iran Hopes: Markets Wrap",
+      "source": "Bloomberg Markets",
+      "category": "Markets",
+      "importance_score": 8,
+      "insight": "The decline in SpaceX stock and uncertainty surrounding US-Iran relations contribute to market volatility."
     },
     {
       "rank": 5,
       "title": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared",
       "source": "WSJ Markets",
       "category": "Markets",
-      "importance_score": 8,
-      "insight": "This story matters because it suggests that the traditional reward for taking on the risk of owning stocks may no longer be present, which could impact investment decisions."
+      "importance_score": 7,
+      "insight": "The diminishing reward for owning stocks over bonds may lead to a shift in investor preferences and asset allocation."
     }
   ],
-  "daily_summary": "The market is reacting to the new Fed chair's hawkish stance and the potential for rising inflation. Investors are also closely watching the performance of SpaceX stock and the overall market sentiment is neutral.",
+  "daily_summary": "The financial world is reacting to the passing of former Fed Chairman Alan Greenspan, while also anticipating a more hawkish Fed under Chairman Warsh. Market volatility persists due to various factors, including the decline in SpaceX stock and uncertainty surrounding US-Iran relations.",
   "key_themes": [
     "Fed Policy",
-    "Inflation",
-    "Markets"
+    "Market Volatility",
+    "Monetary Policy"
   ],
-  "market_sentiment": "neutral",
-  "updated": "2026-06-21T10:56:37.169711",
+  "market_sentiment": "cautious",
+  "updated": "2026-06-22T17:17:45.339151",
   "sources_checked": 7,
-  "articles_processed": 31
+  "articles_processed": 26
 }
