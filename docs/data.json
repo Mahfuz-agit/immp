@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "top_stories": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "The passing of Alan Greenspan marks the end of an era in US monetary policy, with potential implications for future Fed decisions."
+      "insight": "The passing of Alan Greenspan, a highly influential figure in the Federal Reserve, may lead to a reevaluation of monetary policies and potential shifts in the central bank's approach."
     },
     {
       "rank": 2,
@@ -15,41 +15,41 @@
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "A more hawkish Fed under Warsh could lead to increased interest rates, affecting the overall economy and markets."
+      "insight": "A more hawkish stance from the Fed under Warsh's leadership could lead to increased interest rates, impacting the overall economy and financial markets."
     },
     {
       "rank": 3,
-      "title": "ECB’s Lane Sees Danger Inflation Will Top 2% for Some Time",
-      "source": "Bloomberg Markets",
-      "category": "Inflation",
+      "title": "Jeffrey Gundlach says Fed's Warsh is not going to be the 'easy money' chairman many hoped for",
+      "source": "CNBC Finance",
+      "category": "Fed Policy",
       "importance_score": 8,
-      "insight": "Prolonged high inflation could lead to changes in monetary policy, impacting economic growth and interest rates."
+      "insight": "Gundlach's statement suggests that the Fed under Warsh may prioritize inflation control over economic growth, potentially leading to tighter monetary policies."
     },
     {
       "rank": 4,
+      "title": "Gold Drops to Near $4,000 on Stronger Dollar, Fed Rate Outlook",
+      "source": "Bloomberg Markets",
+      "category": "Markets",
+      "importance_score": 8,
+      "insight": "The decline in gold prices may be a sign of increased confidence in the US dollar and a potential shift in investor sentiment towards riskier assets."
+    },
+    {
+      "rank": 5,
       "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
       "source": "WSJ Markets",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "The AI-driven sell-off in stocks could have long-term implications for the tech industry and the overall market."
-    },
-    {
-      "rank": 5,
-      "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
-      "source": "CNBC Finance",
-      "category": "Fed Policy",
-      "importance_score": 9,
-      "insight": "Changes to the Fed rate statement could signal a shift in monetary policy, affecting interest rates and the economy."
+      "insight": "The AI-driven market downturn could lead to a broader correction in the tech sector and potentially impact the overall market sentiment."
     }
   ],
-  "daily_summary": "The financial markets are experiencing significant changes with the passing of Alan Greenspan, a potential shift in Fed policy under Warsh, and ongoing inflation concerns. The AI-driven sell-off in stocks has added to market volatility, making it essential for investors to stay informed and adapt to the changing landscape.",
+  "daily_summary": "The financial markets are experiencing significant shifts due to changes in the Federal Reserve's leadership and monetary policies, as well as global economic trends. The passing of Alan Greenspan and the expected hawkish stance of the Warsh-led Fed have contributed to increased uncertainty and volatility in the markets.",
   "key_themes": [
     "Fed Policy",
-    "Inflation",
-    "Market Volatility"
+    "Market Volatility",
+    "Inflation Control"
   ],
-  "market_sentiment": "bearish",
-  "updated": "2026-06-23T10:50:28.058695",
+  "market_sentiment": "cautious",
+  "updated": "2026-06-24T10:35:05.290691",
   "sources_checked": 7,
-  "articles_processed": 25
+  "articles_processed": 24
 }
