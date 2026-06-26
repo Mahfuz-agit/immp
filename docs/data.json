@@ -1,56 +1,55 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "top_stories": [
     {
       "rank": 1,
+      "title": "Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing",
+      "source": "CNBC Finance",
+      "category": "Inflation",
+      "importance_score": 9,
+      "insight": "This matters because it highlights the differing views of Fed officials on inflation, which could impact future monetary policy decisions."
+    },
+    {
+      "rank": 2,
       "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
       "source": "CNBC Finance",
       "category": "Banking",
       "importance_score": 9,
-      "insight": "This matters because it shows the confidence of major banks in their financial stability and ability to return value to shareholders."
+      "insight": "This matters because it shows the confidence of major banks in their financial health after passing the Fed stress test."
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "This matters because it highlights the Fed's efforts to ensure the stability of the US banking system and its ability to withstand potential losses."
-    },
-    {
-      "rank": 3,
-      "title": "Gold Steadies Near $4,000 as Traders Weigh Interest-Rate Outlook",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
-      "importance_score": 8,
-      "insight": "This matters because gold prices can be an indicator of market sentiment and interest rate expectations."
+      "insight": "This matters because it demonstrates the Fed's efforts to strengthen the banking system and prevent future financial crises."
     },
     {
       "rank": 4,
-      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-      "source": "WSJ Markets",
+      "title": "Gold Climbs Above $4,000 After Inflation Print Slows Decline",
+      "source": "Bloomberg Markets",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "This matters because it shows the impact of AI-related news on the stock market and the potential for significant volatility."
+      "insight": "This matters because it shows the impact of inflation on gold prices and the potential for further increases."
     },
     {
       "rank": 5,
-      "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
-      "source": "WSJ Markets",
-      "category": "Markets",
-      "importance_score": 7,
-      "insight": "This matters because it highlights the current trends in US Treasury yields and their potential impact on the economy."
+      "title": "Kevin Warsh’s tough talk on inflation reassures investors",
+      "source": "Financial Times",
+      "category": "Fed Policy",
+      "importance_score": 8,
+      "insight": "This matters because it highlights the role of Fed officials in shaping investor expectations and confidence."
     }
   ],
-  "daily_summary": "The financial markets are experiencing significant developments, including major banks unveiling buybacks and dividend increases, the Fed's stress test results, and fluctuations in gold prices and US Treasury yields. The impact of AI-related news on the stock market is also a key theme.",
+  "daily_summary": "The financial news is dominated by stories related to inflation, Fed policy, and banking, with a focus on the confidence of major banks and the impact of inflation on markets.",
   "key_themes": [
-    "Banking",
-    "Fed Policy",
-    "Markets",
-    "Earnings"
+    "inflation",
+    "Fed policy",
+    "banking"
   ],
-  "market_sentiment": "cautious",
-  "updated": "2026-06-25T10:24:51.347147",
+  "market_sentiment": "cautiously optimistic",
+  "updated": "2026-06-26T10:37:52.986247",
   "sources_checked": 7,
-  "articles_processed": 18
+  "articles_processed": 22
 }
