@@ -1,55 +1,55 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "top_stories": [
     {
       "rank": 1,
-      "title": "Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing",
+      "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
       "source": "CNBC Finance",
-      "category": "Inflation",
+      "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "This matters because it highlights the differing views of Fed officials on inflation, which could impact future monetary policy decisions."
+      "insight": "This matters because a rate hike could impact the overall economy and inflation."
     },
     {
       "rank": 2,
-      "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
+      "title": "Jeremy Grantham says this is the most expensive market in 'American history'",
       "source": "CNBC Finance",
-      "category": "Banking",
+      "category": "Markets",
       "importance_score": 9,
-      "insight": "This matters because it shows the confidence of major banks in their financial health after passing the Fed stress test."
+      "insight": "This matters because it could indicate a potential market correction."
     },
     {
       "rank": 3,
-      "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
+      "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
       "source": "CNBC Finance",
-      "category": "Fed Policy",
-      "importance_score": 9,
-      "insight": "This matters because it demonstrates the Fed's efforts to strengthen the banking system and prevent future financial crises."
+      "category": "Banking",
+      "importance_score": 8,
+      "insight": "This matters because it shows the confidence of major banks in their financial stability."
     },
     {
       "rank": 4,
-      "title": "Gold Climbs Above $4,000 After Inflation Print Slows Decline",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
+      "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
+      "source": "CNBC Finance",
+      "category": "Banking",
       "importance_score": 8,
-      "insight": "This matters because it shows the impact of inflation on gold prices and the potential for further increases."
+      "insight": "This matters because it indicates the resilience of the US banking system."
     },
     {
       "rank": 5,
-      "title": "Kevin Warsh’s tough talk on inflation reassures investors",
-      "source": "Financial Times",
-      "category": "Fed Policy",
+      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+      "source": "WSJ Markets",
+      "category": "Markets",
       "importance_score": 8,
-      "insight": "This matters because it highlights the role of Fed officials in shaping investor expectations and confidence."
+      "insight": "This matters because it shows the impact of global events on the stock market."
     }
   ],
-  "daily_summary": "The financial news is dominated by stories related to inflation, Fed policy, and banking, with a focus on the confidence of major banks and the impact of inflation on markets.",
+  "daily_summary": "The financial market is experiencing significant developments, including expected rate hikes, expensive market valuations, and major banking announcements.",
   "key_themes": [
-    "inflation",
-    "Fed policy",
-    "banking"
+    "Fed Policy",
+    "Market Volatility",
+    "Banking Sector"
   ],
-  "market_sentiment": "cautiously optimistic",
-  "updated": "2026-06-26T10:37:52.986247",
+  "market_sentiment": "cautious",
+  "updated": "2026-06-27T09:14:43.353833",
   "sources_checked": 7,
-  "articles_processed": 22
+  "articles_processed": 20
 }
