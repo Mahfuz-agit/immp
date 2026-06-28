@@ -1,21 +1,21 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "top_stories": [
     {
       "rank": 1,
-      "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
-      "source": "CNBC Finance",
-      "category": "Fed Policy",
-      "importance_score": 9,
-      "insight": "This matters because a rate hike could impact the overall economy and inflation."
-    },
-    {
-      "rank": 2,
-      "title": "Jeremy Grantham says this is the most expensive market in 'American history'",
+      "title": "Jeremy Grantham says, 'This is the most expensive market in American history'",
       "source": "CNBC Finance",
       "category": "Markets",
       "importance_score": 9,
-      "insight": "This matters because it could indicate a potential market correction."
+      "insight": "This matters because Grantham's statement reflects a bearish outlook on the market, which could impact investor decisions."
+    },
+    {
+      "rank": 2,
+      "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
+      "source": "CNBC Finance",
+      "category": "Fed Policy",
+      "importance_score": 8,
+      "insight": "This matters because a rate hike could slow down economic growth and impact borrowing costs."
     },
     {
       "rank": 3,
@@ -23,7 +23,7 @@
       "source": "CNBC Finance",
       "category": "Banking",
       "importance_score": 8,
-      "insight": "This matters because it shows the confidence of major banks in their financial stability."
+      "insight": "This matters because the buyback and dividend increase reflect the banks' confidence in their financial stability and ability to return value to shareholders."
     },
     {
       "rank": 4,
@@ -31,25 +31,25 @@
       "source": "CNBC Finance",
       "category": "Banking",
       "importance_score": 8,
-      "insight": "This matters because it indicates the resilience of the US banking system."
+      "insight": "This matters because the Fed's statement reflects the resilience of the banking system and the potential impact of new capital rules."
     },
     {
       "rank": 5,
-      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-      "source": "WSJ Markets",
-      "category": "Markets",
+      "title": "ECB’s Schnabel Sees Upside Inflation Risks Despite Peace Deal",
+      "source": "Bloomberg Markets",
+      "category": "Inflation",
       "importance_score": 8,
-      "insight": "This matters because it shows the impact of global events on the stock market."
+      "insight": "This matters because Schnabel's statement reflects concerns about inflation, which could impact monetary policy decisions."
     }
   ],
-  "daily_summary": "The financial market is experiencing significant developments, including expected rate hikes, expensive market valuations, and major banking announcements.",
+  "daily_summary": "The market is experiencing a mix of bullish and bearish sentiments, with some experts warning about the market's expensiveness and others expecting a rate hike. The banking sector is showing signs of stability, with JPMorgan Chase and Goldman Sachs announcing a buyback and dividend increase. Inflation concerns are also on the rise, with the ECB's Schnabel warning about upside risks.",
   "key_themes": [
-    "Fed Policy",
-    "Market Volatility",
-    "Banking Sector"
+    "inflation concerns",
+    "banking stability",
+    "market expensiveness"
   ],
-  "market_sentiment": "cautious",
-  "updated": "2026-06-27T09:14:43.353833",
+  "market_sentiment": "neutral",
+  "updated": "2026-06-28T10:08:53.111031",
   "sources_checked": 7,
-  "articles_processed": 20
+  "articles_processed": 27
 }
