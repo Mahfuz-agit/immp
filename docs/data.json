@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "top_stories": [
     {
       "rank": 1,
@@ -7,15 +7,15 @@
       "source": "CNBC Finance",
       "category": "Markets",
       "importance_score": 9,
-      "insight": "This matters because Grantham's statement reflects a bearish outlook on the market, which could impact investor decisions."
+      "insight": "This matters because it highlights the potential overvaluation of the market and the risks associated with it."
     },
     {
       "rank": 2,
       "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
       "source": "CNBC Finance",
       "category": "Fed Policy",
-      "importance_score": 8,
-      "insight": "This matters because a rate hike could slow down economic growth and impact borrowing costs."
+      "importance_score": 9,
+      "insight": "This matters because it provides insight into the potential future actions of the Federal Reserve and their impact on the economy."
     },
     {
       "rank": 3,
@@ -23,33 +23,33 @@
       "source": "CNBC Finance",
       "category": "Banking",
       "importance_score": 8,
-      "insight": "This matters because the buyback and dividend increase reflect the banks' confidence in their financial stability and ability to return value to shareholders."
+      "insight": "This matters because it shows the confidence of major banks in their financial stability and their ability to return value to shareholders."
     },
     {
       "rank": 4,
-      "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
-      "source": "CNBC Finance",
-      "category": "Banking",
+      "title": "US Supreme Court blocks Donald Trump from sacking Fed governor Lisa Cook",
+      "source": "Financial Times",
+      "category": "Fed Policy",
       "importance_score": 8,
-      "insight": "This matters because the Fed's statement reflects the resilience of the banking system and the potential impact of new capital rules."
+      "insight": "This matters because it has implications for the independence and stability of the Federal Reserve."
     },
     {
       "rank": 5,
-      "title": "ECB’s Schnabel Sees Upside Inflation Risks Despite Peace Deal",
+      "title": "Supreme Court Lets Fed’s Lisa Cook Stay in Job for Now",
       "source": "Bloomberg Markets",
-      "category": "Inflation",
+      "category": "Fed Policy",
       "importance_score": 8,
-      "insight": "This matters because Schnabel's statement reflects concerns about inflation, which could impact monetary policy decisions."
+      "insight": "This matters because it provides clarity on the leadership of the Federal Reserve and its potential impact on monetary policy."
     }
   ],
-  "daily_summary": "The market is experiencing a mix of bullish and bearish sentiments, with some experts warning about the market's expensiveness and others expecting a rate hike. The banking sector is showing signs of stability, with JPMorgan Chase and Goldman Sachs announcing a buyback and dividend increase. Inflation concerns are also on the rise, with the ECB's Schnabel warning about upside risks.",
+  "daily_summary": "The market is experiencing a mix of trends, with some experts warning of overvaluation and others expecting a rate hike. The Federal Reserve is also in the spotlight, with the Supreme Court blocking an attempt to sack one of its governors. Banks are showing confidence in their financial stability, with JPMorgan Chase unveiling a $50 billion buyback and Goldman Sachs raising its dividend.",
   "key_themes": [
-    "inflation concerns",
-    "banking stability",
-    "market expensiveness"
+    "Fed Policy",
+    "Market Valuation",
+    "Banking"
   ],
-  "market_sentiment": "neutral",
-  "updated": "2026-06-28T10:08:53.111031",
+  "market_sentiment": "cautious",
+  "updated": "2026-06-29T14:37:32.278266",
   "sources_checked": 7,
-  "articles_processed": 27
+  "articles_processed": 26
 }
