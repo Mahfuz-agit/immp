@@ -1,55 +1,71 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "top_stories": [
     {
       "rank": 1,
-      "title": "Jeremy Grantham says, 'This is the most expensive market in American history'",
-      "source": "CNBC Finance",
-      "category": "Markets",
-      "importance_score": 9,
-      "insight": "This matters because it highlights the potential overvaluation of the market and the risks associated with it."
-    },
-    {
-      "rank": 2,
       "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "This matters because it provides insight into the potential future actions of the Federal Reserve and their impact on the economy."
+      "insight": "This matters because a rate hike could impact the overall economy and inflation."
+    },
+    {
+      "rank": 2,
+      "title": "Jeremy Grantham says, 'This is the most expensive market in American history'",
+      "source": "CNBC Finance",
+      "category": "Markets",
+      "importance_score": 9,
+      "insight": "This matters because it could indicate a potential market correction."
     },
     {
       "rank": 3,
+      "title": "Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing",
+      "source": "CNBC Finance",
+      "category": "Inflation",
+      "importance_score": 8,
+      "insight": "This matters because inflation could impact the overall economy and monetary policy."
+    },
+    {
+      "rank": 4,
       "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
       "source": "CNBC Finance",
       "category": "Banking",
       "importance_score": 8,
-      "insight": "This matters because it shows the confidence of major banks in their financial stability and their ability to return value to shareholders."
-    },
-    {
-      "rank": 4,
-      "title": "US Supreme Court blocks Donald Trump from sacking Fed governor Lisa Cook",
-      "source": "Financial Times",
-      "category": "Fed Policy",
-      "importance_score": 8,
-      "insight": "This matters because it has implications for the independence and stability of the Federal Reserve."
+      "insight": "This matters because it could impact the banking sector and investor confidence."
     },
     {
       "rank": 5,
-      "title": "Supreme Court Lets Fed’s Lisa Cook Stay in Job for Now",
+      "title": "ECB Officials Stay Alert as Lane Shifts Focus to Price Pipeline",
       "source": "Bloomberg Markets",
-      "category": "Fed Policy",
+      "category": "Global",
       "importance_score": 8,
-      "insight": "This matters because it provides clarity on the leadership of the Federal Reserve and its potential impact on monetary policy."
+      "insight": "This matters because it could impact the global economy and monetary policy."
+    },
+    {
+      "rank": 6,
+      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+      "source": "WSJ Markets",
+      "category": "Markets",
+      "importance_score": 8,
+      "insight": "This matters because it could impact the technology sector and investor confidence."
+    },
+    {
+      "rank": 7,
+      "title": "The great wealth transfer rattling Wall Street",
+      "source": "Financial Times",
+      "category": "Markets",
+      "importance_score": 8,
+      "insight": "This matters because it could impact the overall economy and wealth distribution."
     }
   ],
-  "daily_summary": "The market is experiencing a mix of trends, with some experts warning of overvaluation and others expecting a rate hike. The Federal Reserve is also in the spotlight, with the Supreme Court blocking an attempt to sack one of its governors. Banks are showing confidence in their financial stability, with JPMorgan Chase unveiling a $50 billion buyback and Goldman Sachs raising its dividend.",
+  "daily_summary": "The market is experiencing a mix of inflation concerns, monetary policy changes, and sector rotations. The Fed is expected to hike rates, and inflation is still a concern. The banking sector is seeing buybacks and dividend increases, while the technology sector is experiencing a rout. Global economic trends are also being closely watched.",
   "key_themes": [
-    "Fed Policy",
-    "Market Valuation",
-    "Banking"
+    "inflation",
+    "monetary policy",
+    "sector rotation"
   ],
   "market_sentiment": "cautious",
-  "updated": "2026-06-29T14:37:32.278266",
+  "updated": "2026-06-30T10:44:42.907159",
   "sources_checked": 7,
-  "articles_processed": 26
+  "articles_processed": 27
 }
