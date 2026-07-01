@@ -1,13 +1,13 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "top_stories": [
     {
       "rank": 1,
-      "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
+      "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "This matters because a rate hike could impact the overall economy and inflation."
+      "insight": "This matters because it indicates the Fed's concern about AI's impact on inflation and potential rate hikes."
     },
     {
       "rank": 2,
@@ -15,57 +15,41 @@
       "source": "CNBC Finance",
       "category": "Markets",
       "importance_score": 9,
-      "insight": "This matters because it could indicate a potential market correction."
+      "insight": "This matters because Grantham's statement highlights the potential overvaluation of the market."
     },
     {
       "rank": 3,
-      "title": "Chicago Fed President Goolsbee says inflation is too high; Williams sees price pressures easing",
+      "title": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
       "source": "CNBC Finance",
-      "category": "Inflation",
+      "category": "Markets",
       "importance_score": 8,
-      "insight": "This matters because inflation could impact the overall economy and monetary policy."
+      "insight": "This matters because it could lead to significant changes in the market due to increased demand."
     },
     {
       "rank": 4,
-      "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
+      "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
       "source": "CNBC Finance",
-      "category": "Banking",
+      "category": "Fed Policy",
       "importance_score": 8,
-      "insight": "This matters because it could impact the banking sector and investor confidence."
+      "insight": "This matters because it indicates the Fed's potential plan for rate hikes."
     },
     {
       "rank": 5,
-      "title": "ECB Officials Stay Alert as Lane Shifts Focus to Price Pipeline",
+      "title": "Euro-Zone Inflation Slows More Than Expected as Oil Retreats",
       "source": "Bloomberg Markets",
-      "category": "Global",
+      "category": "Inflation",
       "importance_score": 8,
-      "insight": "This matters because it could impact the global economy and monetary policy."
-    },
-    {
-      "rank": 6,
-      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-      "source": "WSJ Markets",
-      "category": "Markets",
-      "importance_score": 8,
-      "insight": "This matters because it could impact the technology sector and investor confidence."
-    },
-    {
-      "rank": 7,
-      "title": "The great wealth transfer rattling Wall Street",
-      "source": "Financial Times",
-      "category": "Markets",
-      "importance_score": 8,
-      "insight": "This matters because it could impact the overall economy and wealth distribution."
+      "insight": "This matters because it shows a slowdown in inflation, which could impact monetary policy."
     }
   ],
-  "daily_summary": "The market is experiencing a mix of inflation concerns, monetary policy changes, and sector rotations. The Fed is expected to hike rates, and inflation is still a concern. The banking sector is seeing buybacks and dividend increases, while the technology sector is experiencing a rout. Global economic trends are also being closely watched.",
+  "daily_summary": "The market is focused on the potential impact of AI on inflation and the Fed's possible rate hikes. Additionally, the joining of SpaceX to the Nasdaq-100 and the slowdown in Euro-Zone inflation are significant events.",
   "key_themes": [
-    "inflation",
-    "monetary policy",
-    "sector rotation"
+    "AI and inflation",
+    "Fed Policy",
+    "Market valuation"
   ],
   "market_sentiment": "cautious",
-  "updated": "2026-06-30T10:44:42.907159",
+  "updated": "2026-07-01T10:58:28.421809",
   "sources_checked": 7,
-  "articles_processed": 27
+  "articles_processed": 28
 }
