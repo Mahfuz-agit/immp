@@ -1,55 +1,55 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "top_stories": [
     {
       "rank": 1,
-      "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
+      "title": "Warsh faces multiple alternative inflation signs as Fed charts new course",
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "This matters because it indicates the Fed's concern about AI's impact on inflation and potential rate hikes."
+      "insight": "This matters because it indicates the Fed's potential next steps in monetary policy."
     },
     {
       "rank": 2,
-      "title": "Jeremy Grantham says, 'This is the most expensive market in American history'",
+      "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
       "source": "CNBC Finance",
-      "category": "Markets",
-      "importance_score": 9,
-      "insight": "This matters because Grantham's statement highlights the potential overvaluation of the market."
+      "category": "Inflation",
+      "importance_score": 8,
+      "insight": "This matters because it highlights the potential impact of AI on inflation and interest rates."
     },
     {
       "rank": 3,
-      "title": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
-      "source": "CNBC Finance",
-      "category": "Markets",
-      "importance_score": 8,
-      "insight": "This matters because it could lead to significant changes in the market due to increased demand."
-    },
-    {
-      "rank": 4,
       "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 8,
-      "insight": "This matters because it indicates the Fed's potential plan for rate hikes."
+      "insight": "This matters because it provides insight into the Fed's potential future actions."
+    },
+    {
+      "rank": 4,
+      "title": "US Jobs Preview: What to Watch for in the June Report",
+      "source": "Bloomberg Markets",
+      "category": "Markets",
+      "importance_score": 8,
+      "insight": "This matters because it provides an overview of the upcoming jobs report and its potential impact on the market."
     },
     {
       "rank": 5,
-      "title": "Euro-Zone Inflation Slows More Than Expected as Oil Retreats",
+      "title": "Treasuries Slip Before Payrolls as Traders Weigh Warsh Comments",
       "source": "Bloomberg Markets",
-      "category": "Inflation",
-      "importance_score": 8,
-      "insight": "This matters because it shows a slowdown in inflation, which could impact monetary policy."
+      "category": "Markets",
+      "importance_score": 7,
+      "insight": "This matters because it indicates the market's reaction to the Fed's comments and potential future actions."
     }
   ],
-  "daily_summary": "The market is focused on the potential impact of AI on inflation and the Fed's possible rate hikes. Additionally, the joining of SpaceX to the Nasdaq-100 and the slowdown in Euro-Zone inflation are significant events.",
+  "daily_summary": "The market is focused on the Fed's potential next steps in monetary policy, with inflation and interest rates being key areas of concern. The upcoming jobs report is also expected to have an impact on the market.",
   "key_themes": [
-    "AI and inflation",
     "Fed Policy",
-    "Market valuation"
+    "Inflation",
+    "Interest Rates"
   ],
   "market_sentiment": "cautious",
-  "updated": "2026-07-01T10:58:28.421809",
+  "updated": "2026-07-02T10:16:31.142658",
   "sources_checked": 7,
-  "articles_processed": 28
+  "articles_processed": 19
 }
