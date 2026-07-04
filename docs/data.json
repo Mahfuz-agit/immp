@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "top_stories": [
     {
       "rank": 1,
@@ -7,23 +7,23 @@
       "source": "CNBC Finance",
       "category": "Markets",
       "importance_score": 9,
-      "insight": "This matters because Citadel's hedge fund performance can indicate the overall health of the hedge fund industry."
+      "insight": "This matters because Citadel's success can indicate a broader trend in hedge fund performance and investor sentiment."
     },
     {
       "rank": 2,
-      "title": "SpaceX may emerge as ultimate blueprint for new wave of mega-cap IPOs",
+      "title": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
       "source": "CNBC Finance",
       "category": "Markets",
-      "importance_score": 8,
-      "insight": "This matters because a successful SpaceX IPO could pave the way for other large tech companies to go public."
+      "importance_score": 9,
+      "insight": "This matters because SpaceX's inclusion in the Nasdaq-100 can significantly impact the stock market and investor demand."
     },
     {
       "rank": 3,
       "title": "Warsh faces multiple alternative inflation signs as Fed charts new course",
       "source": "CNBC Finance",
       "category": "Fed Policy",
-      "importance_score": 9,
-      "insight": "This matters because the Fed's approach to inflation will have a significant impact on the overall economy."
+      "importance_score": 8,
+      "insight": "This matters because the Fed's response to inflation signs can greatly impact the economy and financial markets."
     },
     {
       "rank": 4,
@@ -31,50 +31,50 @@
       "source": "CNBC Finance",
       "category": "Inflation",
       "importance_score": 8,
-      "insight": "This matters because a peak in inflation could signal a shift in the economy and impact monetary policy."
+      "insight": "This matters because a peak in inflation can signal a shift in the economy and impact monetary policy."
     },
     {
       "rank": 5,
       "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
       "source": "CNBC Finance",
       "category": "Fed Policy",
-      "importance_score": 9,
-      "insight": "This matters because the potential for AI to fuel inflation could lead to changes in interest rates and monetary policy."
+      "importance_score": 8,
+      "insight": "This matters because the potential impact of AI on inflation can influence the Fed's decision on interest rates."
     },
     {
       "rank": 6,
-      "title": "Japan’s 2026 Wage Talks End in Third Year of Gains Above 5%",
+      "title": "Gold Heads for First Weekly Gain Since May on Easing Fed Outlook",
       "source": "Bloomberg Markets",
-      "category": "Global",
-      "importance_score": 8,
-      "insight": "This matters because wage gains in Japan could indicate a strengthening economy and impact global trade."
+      "category": "Markets",
+      "importance_score": 7,
+      "insight": "This matters because gold prices can indicate investor sentiment and expectations about the economy."
     },
     {
       "rank": 7,
       "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
       "source": "WSJ Markets",
       "category": "Markets",
-      "importance_score": 9,
-      "insight": "This matters because a broad AI rout could have significant implications for the stock market and the tech industry."
+      "importance_score": 8,
+      "insight": "This matters because a broad AI rout can significantly impact the stock market and investor confidence."
     },
     {
       "rank": 8,
-      "title": "Surging Wall Street profit forecasts fuel fears of ‘earnings bubble’",
-      "source": "Financial Times",
+      "title": "Alphabet Earnings Preview: What to Expect",
+      "source": "Yahoo Finance",
       "category": "Earnings",
-      "importance_score": 8,
-      "insight": "This matters because surging profit forecasts could indicate an unsustainable earnings bubble."
+      "importance_score": 7,
+      "insight": "This matters because Alphabet's earnings can impact the tech industry and investor expectations."
     }
   ],
-  "daily_summary": "The market is experiencing a mix of positive and negative trends, with some indicators suggesting a peak in inflation and others pointing to potential risks such as an earnings bubble. The Fed's approach to inflation and the impact of AI on the economy are also key areas of focus.",
+  "daily_summary": "The financial markets are experiencing significant developments, including Citadel's hedge fund gains, SpaceX's Nasdaq-100 inclusion, and the potential impact of AI on inflation. The Fed's response to inflation signs and the earnings of major companies like Alphabet are also being closely watched.",
   "key_themes": [
     "inflation",
     "AI",
-    "earnings bubble",
-    "Fed policy"
+    "hedge funds",
+    "earnings"
   ],
   "market_sentiment": "cautious",
-  "updated": "2026-07-03T10:11:41.053722",
+  "updated": "2026-07-04T08:14:52.802455",
   "sources_checked": 7,
-  "articles_processed": 16
+  "articles_processed": 23
 }
