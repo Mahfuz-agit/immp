@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "top_stories": [
     {
       "rank": 1,
@@ -7,23 +7,23 @@
       "source": "CNBC Finance",
       "category": "Markets",
       "importance_score": 9,
-      "insight": "This matters because Citadel's success can indicate a broader trend in hedge fund performance and investor sentiment."
+      "insight": "This matters because Citadel's success could indicate a broader trend in hedge fund performance."
     },
     {
       "rank": 2,
-      "title": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
-      "source": "CNBC Finance",
-      "category": "Markets",
-      "importance_score": 9,
-      "insight": "This matters because SpaceX's inclusion in the Nasdaq-100 can significantly impact the stock market and investor demand."
-    },
-    {
-      "rank": 3,
       "title": "Warsh faces multiple alternative inflation signs as Fed charts new course",
       "source": "CNBC Finance",
       "category": "Fed Policy",
-      "importance_score": 8,
-      "insight": "This matters because the Fed's response to inflation signs can greatly impact the economy and financial markets."
+      "importance_score": 9,
+      "insight": "This matters because the Fed's course on inflation will significantly impact the economy."
+    },
+    {
+      "rank": 3,
+      "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
+      "source": "CNBC Finance",
+      "category": "Fed Policy",
+      "importance_score": 9,
+      "insight": "This matters because AI's potential impact on inflation could lead to changes in monetary policy."
     },
     {
       "rank": 4,
@@ -31,50 +31,59 @@
       "source": "CNBC Finance",
       "category": "Inflation",
       "importance_score": 8,
-      "insight": "This matters because a peak in inflation can signal a shift in the economy and impact monetary policy."
+      "insight": "This matters because a peak in inflation could signal a shift in economic trends."
     },
     {
       "rank": 5,
-      "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
-      "source": "CNBC Finance",
-      "category": "Fed Policy",
+      "title": "Wall Street banks recover in China amid trading boom",
+      "source": "Financial Times",
+      "category": "Banking",
       "importance_score": 8,
-      "insight": "This matters because the potential impact of AI on inflation can influence the Fed's decision on interest rates."
+      "insight": "This matters because the recovery of Wall Street banks in China could indicate a strengthening of global financial ties."
     },
     {
       "rank": 6,
-      "title": "Gold Heads for First Weekly Gain Since May on Easing Fed Outlook",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
-      "importance_score": 7,
-      "insight": "This matters because gold prices can indicate investor sentiment and expectations about the economy."
-    },
-    {
-      "rank": 7,
       "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
       "source": "WSJ Markets",
       "category": "Markets",
+      "importance_score": 9,
+      "insight": "This matters because the impact of AI on the stock market could be significant and far-reaching."
+    },
+    {
+      "rank": 7,
+      "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
+      "source": "WSJ Markets",
+      "category": "Markets",
       "importance_score": 8,
-      "insight": "This matters because a broad AI rout can significantly impact the stock market and investor confidence."
+      "insight": "This matters because the direction of Treasury yields will impact the overall economy and financial markets."
     },
     {
       "rank": 8,
-      "title": "Alphabet Earnings Preview: What to Expect",
+      "title": "Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says",
+      "source": "WSJ Markets",
+      "category": "Global",
+      "importance_score": 8,
+      "insight": "This matters because the stability of Russia's crude exports could impact global energy markets and geopolitics."
+    },
+    {
+      "rank": 9,
+      "title": "Warren Buffett Just Sent Investors an 11-Word Warning About the Stock Market. History Says He's Right.",
       "source": "Yahoo Finance",
-      "category": "Earnings",
-      "importance_score": 7,
-      "insight": "This matters because Alphabet's earnings can impact the tech industry and investor expectations."
+      "category": "Markets",
+      "importance_score": 9,
+      "insight": "This matters because Warren Buffett's warnings are often taken seriously by investors and can impact market sentiment."
     }
   ],
-  "daily_summary": "The financial markets are experiencing significant developments, including Citadel's hedge fund gains, SpaceX's Nasdaq-100 inclusion, and the potential impact of AI on inflation. The Fed's response to inflation signs and the earnings of major companies like Alphabet are also being closely watched.",
+  "daily_summary": "The financial markets are experiencing significant shifts, with Citadel's hedge funds posting broad gains and the Fed charting a new course on inflation. The impact of AI on the stock market and the economy is also a major concern, with some experts warning of potential inflation and rate hikes. Meanwhile, Wall Street banks are recovering in China, and Treasury yields are falling but expected to rise in the long term.",
   "key_themes": [
     "inflation",
     "AI",
     "hedge funds",
-    "earnings"
+    "Fed policy",
+    "global markets"
   ],
   "market_sentiment": "cautious",
-  "updated": "2026-07-04T08:14:52.802455",
+  "updated": "2026-07-05T09:32:06.693672",
   "sources_checked": 7,
-  "articles_processed": 23
+  "articles_processed": 22
 }
