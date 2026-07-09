@@ -1,55 +1,55 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "top_stories": [
     {
       "rank": 1,
-      "title": "Traders on Kalshi think the Nasdaq-100 will end 2026 above 30,000, predicting a cooler second half of the year",
+      "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
       "source": "CNBC Finance",
-      "category": "Markets",
+      "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "This prediction indicates a positive outlook for the tech industry and the overall market."
+      "insight": "This matters because it indicates uncertainty within the Fed, which could impact future interest rate decisions."
     },
     {
       "rank": 2,
+      "title": "Fuel Prices Show Inflation Is Still a Risk for Markets",
+      "source": "Bloomberg Markets",
+      "category": "Inflation",
+      "importance_score": 8,
+      "insight": "This matters because rising fuel prices could contribute to higher inflation, affecting market performance."
+    },
+    {
+      "rank": 3,
       "title": "Klarna seeks U.S. bank charter in latest push beyond buy now, pay later",
       "source": "CNBC Finance",
       "category": "Banking",
       "importance_score": 8,
-      "insight": "Klarna's expansion into traditional banking services could increase competition in the financial sector."
-    },
-    {
-      "rank": 3,
-      "title": "Citadel's hedge funds post broad first-half gains, top performing strategy sidesteps quant selloff",
-      "source": "CNBC Finance",
-      "category": "Markets",
-      "importance_score": 8,
-      "insight": "Citadel's success despite the quant selloff suggests that hedge funds can still thrive in uncertain market conditions."
+      "insight": "This matters because it represents a significant expansion of Klarna's services in the US market."
     },
     {
       "rank": 4,
-      "title": "China’s 10-Year Bond Sale Sees Demand Gauge at Record High",
-      "source": "Bloomberg Markets",
-      "category": "Global",
-      "importance_score": 9,
-      "insight": "The high demand for China's bonds indicates strong investor confidence in the country's economy."
+      "title": "Citadel's hedge funds post broad first-half gains, top performing strategy sidesteps quant selloff",
+      "source": "CNBC Finance",
+      "category": "Markets",
+      "importance_score": 7,
+      "insight": "This matters because it shows the resilience of certain hedge fund strategies despite market challenges."
     },
     {
       "rank": 5,
-      "title": "Hedge Funds Shake Off Brutal March for Best Half Since 2021",
+      "title": "Jupiter Fund Cut Treasuries to Zero as Inflation Risks Rise",
       "source": "Bloomberg Markets",
       "category": "Markets",
-      "importance_score": 8,
-      "insight": "The strong performance of hedge funds in the first half of the year suggests a potential shift in market sentiment."
+      "importance_score": 7,
+      "insight": "This matters because it indicates a significant shift in investment strategy due to inflation concerns."
     }
   ],
-  "daily_summary": "The market is experiencing a mix of positive and negative trends, with some investors predicting a cooler second half of the year and others showing confidence in certain sectors like hedge funds and Chinese bonds.",
+  "daily_summary": "The financial news is dominated by stories related to Fed policy, inflation, and market performance. The Fed's uncertainty about interest rates and rising fuel prices contributing to inflation are key concerns. Additionally, significant moves in the banking and hedge fund sectors are worth noting.",
   "key_themes": [
-    "Market Predictions",
-    "Hedge Fund Performance",
-    "Global Economic Trends"
+    "Fed Policy",
+    "Inflation",
+    "Market Volatility"
   ],
-  "market_sentiment": "cautiously_optimistic",
-  "updated": "2026-07-08T07:56:40.216403",
+  "market_sentiment": "cautious",
+  "updated": "2026-07-09T10:49:50.819404",
   "sources_checked": 7,
-  "articles_processed": 24
+  "articles_processed": 18
 }
