@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "top_stories": [
     {
       "rank": 1,
@@ -7,49 +7,50 @@
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "This matters because it indicates uncertainty within the Fed, which could impact future interest rate decisions."
+      "insight": "This matters because it indicates uncertainty among Fed officials, which could impact future interest rate decisions."
     },
     {
       "rank": 2,
-      "title": "Fuel Prices Show Inflation Is Still a Risk for Markets",
-      "source": "Bloomberg Markets",
-      "category": "Inflation",
+      "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
+      "source": "CNBC Finance",
+      "category": "Banking",
       "importance_score": 8,
-      "insight": "This matters because rising fuel prices could contribute to higher inflation, affecting market performance."
+      "insight": "This matters because it highlights a significant win for Goldman Sachs and its growing presence in the asset management space."
     },
     {
       "rank": 3,
+      "title": "Traders on Kalshi think the Nasdaq-100 will end 2026 above 30,000, predicting a cooler second half of the year",
+      "source": "CNBC Finance",
+      "category": "Markets",
+      "importance_score": 8,
+      "insight": "This matters because it reflects market expectations for the Nasdaq-100 and potential trends in the tech sector."
+    },
+    {
+      "rank": 4,
       "title": "Klarna seeks U.S. bank charter in latest push beyond buy now, pay later",
       "source": "CNBC Finance",
       "category": "Banking",
       "importance_score": 8,
-      "insight": "This matters because it represents a significant expansion of Klarna's services in the US market."
-    },
-    {
-      "rank": 4,
-      "title": "Citadel's hedge funds post broad first-half gains, top performing strategy sidesteps quant selloff",
-      "source": "CNBC Finance",
-      "category": "Markets",
-      "importance_score": 7,
-      "insight": "This matters because it shows the resilience of certain hedge fund strategies despite market challenges."
+      "insight": "This matters because it indicates Klarna's expansion into new areas of financial services and potential disruption to traditional banking."
     },
     {
       "rank": 5,
-      "title": "Jupiter Fund Cut Treasuries to Zero as Inflation Risks Rise",
+      "title": "Europe’s Earnings Momentum Is Taking Off, and That’s Unusual",
       "source": "Bloomberg Markets",
-      "category": "Markets",
-      "importance_score": 7,
-      "insight": "This matters because it indicates a significant shift in investment strategy due to inflation concerns."
+      "category": "Earnings",
+      "importance_score": 9,
+      "insight": "This matters because it highlights a significant trend in European earnings, which could impact investor sentiment and market performance."
     }
   ],
-  "daily_summary": "The financial news is dominated by stories related to Fed policy, inflation, and market performance. The Fed's uncertainty about interest rates and rising fuel prices contributing to inflation are key concerns. Additionally, significant moves in the banking and hedge fund sectors are worth noting.",
+  "daily_summary": "The financial news is dominated by stories related to Fed policy, banking, and market trends. The Fed's uncertainty about interest rates and Goldman Sachs' significant asset management deals are among the top stories. Additionally, traders are predicting a cooler second half of the year for the Nasdaq-100, and Klarna is expanding its services beyond buy now, pay later. European earnings momentum is also taking off, which is an unusual trend.",
   "key_themes": [
     "Fed Policy",
-    "Inflation",
-    "Market Volatility"
+    "Banking",
+    "Market Trends",
+    "Earnings"
   ],
-  "market_sentiment": "cautious",
-  "updated": "2026-07-09T10:49:50.819404",
+  "market_sentiment": "neutral",
+  "updated": "2026-07-10T10:37:00.528427",
   "sources_checked": 7,
-  "articles_processed": 18
+  "articles_processed": 22
 }
