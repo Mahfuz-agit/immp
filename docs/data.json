@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "top_stories": [
     {
       "rank": 1,
@@ -11,45 +11,45 @@
     },
     {
       "rank": 2,
+      "title": "Warsh and US Inflation Will Set Tone for July Fed Decision",
+      "source": "Bloomberg Markets",
+      "category": "Inflation",
+      "importance_score": 9,
+      "insight": "This matters because inflation is a key factor in the Fed's decision-making process, and Warsh's influence could shape the direction of monetary policy."
+    },
+    {
+      "rank": 3,
       "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
       "source": "CNBC Finance",
       "category": "Banking",
       "importance_score": 8,
-      "insight": "This matters because it highlights Goldman Sachs' ability to secure large deals and its growing presence in the asset management industry."
-    },
-    {
-      "rank": 3,
-      "title": "Klarna seeks U.S. bank charter in latest push beyond buy now, pay later",
-      "source": "CNBC Finance",
-      "category": "Banking",
-      "importance_score": 8,
-      "insight": "This matters because it shows Klarna's efforts to expand its services and become a more traditional bank."
+      "insight": "This matters because it highlights Goldman Sachs' ability to secure large asset management deals, which could boost its revenue and influence in the financial sector."
     },
     {
       "rank": 4,
-      "title": "SK Hynix Rises After Record US Offering",
-      "source": "Bloomberg Markets",
+      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+      "source": "WSJ Markets",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "This matters because it indicates a successful offering and potential growth for SK Hynix."
+      "insight": "This matters because it shows how global events, such as China's AI developments, can impact the stock market and investor sentiment."
     },
     {
       "rank": 5,
-      "title": "Gensler: Big Deals a Sign of 'High-Valuation Market'",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
-      "importance_score": 8,
-      "insight": "This matters because it highlights the current market conditions and the potential for overvaluation."
+      "title": "Klarna seeks U.S. bank charter in latest push beyond buy now, pay later",
+      "source": "CNBC Finance",
+      "category": "Banking",
+      "importance_score": 7,
+      "insight": "This matters because it indicates Klarna's expansion into new areas of financial services, which could increase competition and innovation in the industry."
     }
   ],
-  "daily_summary": "The financial markets are experiencing a mix of trends, with the Fed's interest rate decisions and banking industry developments being major focuses. The successful offerings and deals in the markets also indicate a sense of growth and expansion.",
+  "daily_summary": "The financial news is dominated by stories about the Fed's interest rate decisions, inflation, and the performance of major banks and stocks. The uncertainty among Fed officials and the influence of inflation on monetary policy are key themes, while the growth of companies like Goldman Sachs and Klarna is also noteworthy.",
   "key_themes": [
     "Fed Policy",
-    "Banking",
-    "Market Trends"
+    "Inflation",
+    "Banking"
   ],
-  "market_sentiment": "cautiously optimistic",
-  "updated": "2026-07-11T07:18:45.938665",
+  "market_sentiment": "cautious",
+  "updated": "2026-07-12T07:38:49.564740",
   "sources_checked": 7,
-  "articles_processed": 23
+  "articles_processed": 20
 }
