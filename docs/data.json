@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "top_stories": [
     {
       "rank": 1,
@@ -11,45 +11,46 @@
     },
     {
       "rank": 2,
-      "title": "Warsh and US Inflation Will Set Tone for July Fed Decision",
-      "source": "Bloomberg Markets",
-      "category": "Inflation",
-      "importance_score": 9,
-      "insight": "This matters because inflation is a key factor in the Fed's decision-making process, and Warsh's influence could shape the direction of monetary policy."
-    },
-    {
-      "rank": 3,
       "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
       "source": "CNBC Finance",
       "category": "Banking",
       "importance_score": 8,
-      "insight": "This matters because it highlights Goldman Sachs' ability to secure large asset management deals, which could boost its revenue and influence in the financial sector."
+      "insight": "This matters because it highlights Goldman Sachs' ability to secure large asset management deals, which could boost its revenue."
+    },
+    {
+      "rank": 3,
+      "title": "Traders on Kalshi think the Nasdaq-100 will end 2026 above 30,000, predicting a cooler second half of the year",
+      "source": "CNBC Finance",
+      "category": "Markets",
+      "importance_score": 8,
+      "insight": "This matters because it indicates traders' optimism about the Nasdaq-100's performance, which could influence market trends."
     },
     {
       "rank": 4,
-      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-      "source": "WSJ Markets",
-      "category": "Markets",
+      "title": "Investors Expect ‘Sunshine and Rainbows’ This Earnings Season",
+      "source": "Bloomberg Markets",
+      "category": "Earnings",
       "importance_score": 8,
-      "insight": "This matters because it shows how global events, such as China's AI developments, can impact the stock market and investor sentiment."
+      "insight": "This matters because it highlights investors' expectations for a strong earnings season, which could impact stock prices."
     },
     {
       "rank": 5,
-      "title": "Klarna seeks U.S. bank charter in latest push beyond buy now, pay later",
-      "source": "CNBC Finance",
-      "category": "Banking",
-      "importance_score": 7,
-      "insight": "This matters because it indicates Klarna's expansion into new areas of financial services, which could increase competition and innovation in the industry."
+      "title": "Treasury Two-Year Yields Rise to Highest Since 2025 as Oil Jumps",
+      "source": "Bloomberg Markets",
+      "category": "Markets",
+      "importance_score": 8,
+      "insight": "This matters because it indicates a rise in Treasury yields, which could impact borrowing costs and market sentiment."
     }
   ],
-  "daily_summary": "The financial news is dominated by stories about the Fed's interest rate decisions, inflation, and the performance of major banks and stocks. The uncertainty among Fed officials and the influence of inflation on monetary policy are key themes, while the growth of companies like Goldman Sachs and Klarna is also noteworthy.",
+  "daily_summary": "The financial markets are experiencing a mix of trends, with Fed officials split on interest rate decisions, Goldman Sachs securing large asset management deals, and traders predicting a strong performance for the Nasdaq-100. Investors are also expecting a strong earnings season, while Treasury yields are rising due to oil price jumps.",
   "key_themes": [
     "Fed Policy",
-    "Inflation",
-    "Banking"
+    "Banking",
+    "Markets",
+    "Earnings"
   ],
-  "market_sentiment": "cautious",
-  "updated": "2026-07-12T07:38:49.564740",
+  "market_sentiment": "cautiously_optimistic",
+  "updated": "2026-07-13T10:42:17.318861",
   "sources_checked": 7,
-  "articles_processed": 20
+  "articles_processed": 26
 }
