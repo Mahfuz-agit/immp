@@ -1,56 +1,55 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "top_stories": [
     {
       "rank": 1,
-      "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
+      "title": "A July rate hike from the Fed? The odds are rising",
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "This matters because it indicates uncertainty among Fed officials, which could impact future interest rate decisions."
+      "insight": "The possibility of a July rate hike by the Fed could significantly impact the economy and financial markets."
     },
     {
       "rank": 2,
+      "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
+      "source": "CNBC Finance",
+      "category": "Fed Policy",
+      "importance_score": 9,
+      "insight": "The Fed's approach to inflation and potential rate hikes will be crucial in determining the direction of the economy."
+    },
+    {
+      "rank": 3,
+      "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
+      "source": "CNBC Finance",
+      "category": "Fed Policy",
+      "importance_score": 8,
+      "insight": "The division among Fed officials on interest rates could lead to uncertainty in the financial markets."
+    },
+    {
+      "rank": 4,
       "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
       "source": "CNBC Finance",
       "category": "Banking",
       "importance_score": 8,
-      "insight": "This matters because it highlights Goldman Sachs' ability to secure large asset management deals, which could boost its revenue."
-    },
-    {
-      "rank": 3,
-      "title": "Traders on Kalshi think the Nasdaq-100 will end 2026 above 30,000, predicting a cooler second half of the year",
-      "source": "CNBC Finance",
-      "category": "Markets",
-      "importance_score": 8,
-      "insight": "This matters because it indicates traders' optimism about the Nasdaq-100's performance, which could influence market trends."
-    },
-    {
-      "rank": 4,
-      "title": "Investors Expect ‘Sunshine and Rainbows’ This Earnings Season",
-      "source": "Bloomberg Markets",
-      "category": "Earnings",
-      "importance_score": 8,
-      "insight": "This matters because it highlights investors' expectations for a strong earnings season, which could impact stock prices."
+      "insight": "Goldman Sachs' significant asset management deals could boost its revenue and market share."
     },
     {
       "rank": 5,
-      "title": "Treasury Two-Year Yields Rise to Highest Since 2025 as Oil Jumps",
+      "title": "Brent Tops $85, Rate-Hike Bets Rise Before US CPI: Markets Wrap",
       "source": "Bloomberg Markets",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "This matters because it indicates a rise in Treasury yields, which could impact borrowing costs and market sentiment."
+      "insight": "The increase in Brent prices and rate-hike bets could impact the global economy and financial markets."
     }
   ],
-  "daily_summary": "The financial markets are experiencing a mix of trends, with Fed officials split on interest rate decisions, Goldman Sachs securing large asset management deals, and traders predicting a strong performance for the Nasdaq-100. Investors are also expecting a strong earnings season, while Treasury yields are rising due to oil price jumps.",
+  "daily_summary": "The financial markets are focused on the possibility of a July rate hike by the Fed, with odds rising and Fed officials split on the direction of interest rates. Meanwhile, Goldman Sachs has secured significant asset management deals, and Brent prices have topped $85.",
   "key_themes": [
     "Fed Policy",
-    "Banking",
-    "Markets",
-    "Earnings"
+    "Inflation",
+    "Banking"
   ],
-  "market_sentiment": "cautiously_optimistic",
-  "updated": "2026-07-13T10:42:17.318861",
+  "market_sentiment": "cautious",
+  "updated": "2026-07-14T06:37:50.924409",
   "sources_checked": 7,
-  "articles_processed": 26
+  "articles_processed": 21
 }
