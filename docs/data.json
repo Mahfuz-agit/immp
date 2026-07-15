@@ -1,55 +1,56 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "top_stories": [
     {
       "rank": 1,
-      "title": "A July rate hike from the Fed? The odds are rising",
+      "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "The possibility of a July rate hike by the Fed could significantly impact the economy and financial markets."
+      "insight": "This indicates a significant shift in the Fed's approach to inflation, which could impact interest rates and the overall economy."
     },
     {
       "rank": 2,
-      "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
-      "source": "CNBC Finance",
-      "category": "Fed Policy",
-      "importance_score": 9,
-      "insight": "The Fed's approach to inflation and potential rate hikes will be crucial in determining the direction of the economy."
-    },
-    {
-      "rank": 3,
-      "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
-      "source": "CNBC Finance",
-      "category": "Fed Policy",
-      "importance_score": 8,
-      "insight": "The division among Fed officials on interest rates could lead to uncertainty in the financial markets."
-    },
-    {
-      "rank": 4,
       "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
       "source": "CNBC Finance",
       "category": "Banking",
       "importance_score": 8,
-      "insight": "Goldman Sachs' significant asset management deals could boost its revenue and market share."
+      "insight": "This deal highlights Goldman Sachs' strength in asset management and its ability to secure large contracts with major corporations."
+    },
+    {
+      "rank": 3,
+      "title": "A July rate hike from the Fed? The odds are rising",
+      "source": "CNBC Finance",
+      "category": "Fed Policy",
+      "importance_score": 8,
+      "insight": "A potential rate hike in July could have significant implications for the economy, including increased borrowing costs and reduced consumer spending."
+    },
+    {
+      "rank": 4,
+      "title": "Chipmaker CXMT seeks $10bn in largest China IPO since 2010",
+      "source": "Financial Times",
+      "category": "Markets",
+      "importance_score": 8,
+      "insight": "This IPO could be a significant indicator of the health of the Chinese economy and the demand for technology stocks."
     },
     {
       "rank": 5,
-      "title": "Brent Tops $85, Rate-Hike Bets Rise Before US CPI: Markets Wrap",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
-      "importance_score": 8,
-      "insight": "The increase in Brent prices and rate-hike bets could impact the global economy and financial markets."
+      "title": "China’s economy grows at one of lowest rates in decades",
+      "source": "Financial Times",
+      "category": "Global",
+      "importance_score": 9,
+      "insight": "This slow growth rate could have significant implications for the global economy, including reduced demand for commodities and decreased trade."
     }
   ],
-  "daily_summary": "The financial markets are focused on the possibility of a July rate hike by the Fed, with odds rising and Fed officials split on the direction of interest rates. Meanwhile, Goldman Sachs has secured significant asset management deals, and Brent prices have topped $85.",
+  "daily_summary": "The Fed's potential policy shift and a possible rate hike in July are dominating the headlines, while Goldman Sachs' large asset management deals and China's slow economic growth are also making waves.",
   "key_themes": [
     "Fed Policy",
     "Inflation",
-    "Banking"
+    "Banking",
+    "Global Economy"
   ],
   "market_sentiment": "cautious",
-  "updated": "2026-07-14T06:37:50.924409",
+  "updated": "2026-07-15T07:23:56.388590",
   "sources_checked": 7,
   "articles_processed": 21
 }
