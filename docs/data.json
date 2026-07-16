@@ -1,56 +1,56 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "top_stories": [
     {
       "rank": 1,
-      "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
+      "title": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "This indicates a significant shift in the Fed's approach to inflation, which could impact interest rates and the overall economy."
+      "insight": "The testimony indicates the Fed's stance on the economy and interest rates, which can significantly impact the market."
     },
     {
       "rank": 2,
-      "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
+      "title": "Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambling'",
       "source": "CNBC Finance",
-      "category": "Banking",
+      "category": "Markets",
       "importance_score": 8,
-      "insight": "This deal highlights Goldman Sachs' strength in asset management and its ability to secure large contracts with major corporations."
+      "insight": "Buffett's statement reflects the current market sentiment and highlights the challenges of finding valuable investments."
     },
     {
       "rank": 3,
-      "title": "A July rate hike from the Fed? The odds are rising",
+      "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
       "source": "CNBC Finance",
-      "category": "Fed Policy",
-      "importance_score": 8,
-      "insight": "A potential rate hike in July could have significant implications for the economy, including increased borrowing costs and reduced consumer spending."
+      "category": "Earnings",
+      "importance_score": 9,
+      "insight": "The record revenue and profit indicate a strong performance by Morgan Stanley, which can impact the overall market."
     },
     {
       "rank": 4,
-      "title": "Chipmaker CXMT seeks $10bn in largest China IPO since 2010",
-      "source": "Financial Times",
-      "category": "Markets",
-      "importance_score": 8,
-      "insight": "This IPO could be a significant indicator of the health of the Chinese economy and the demand for technology stocks."
+      "title": "New York Fed President Williams says inflation has peaked, rates 'well positioned'",
+      "source": "CNBC Finance",
+      "category": "Inflation",
+      "importance_score": 9,
+      "insight": "The statement by the New York Fed President provides insight into the current inflation situation and the Fed's stance on interest rates."
     },
     {
       "rank": 5,
-      "title": "China’s economy grows at one of lowest rates in decades",
-      "source": "Financial Times",
-      "category": "Global",
-      "importance_score": 9,
-      "insight": "This slow growth rate could have significant implications for the global economy, including reduced demand for commodities and decreased trade."
+      "title": "HSBC Upgrades Indian Stocks as Earnings Risk from Oil Subsides",
+      "source": "Bloomberg Markets",
+      "category": "Markets",
+      "importance_score": 8,
+      "insight": "The upgrade of Indian stocks by HSBC can impact the market and provide investment opportunities."
     }
   ],
-  "daily_summary": "The Fed's potential policy shift and a possible rate hike in July are dominating the headlines, while Goldman Sachs' large asset management deals and China's slow economic growth are also making waves.",
+  "daily_summary": "The market is currently experiencing a mix of positive and negative trends, with the Fed's testimony and inflation statements providing insight into the economy. The record revenue and profit posted by Morgan Stanley indicate a strong performance, while the upgrade of Indian stocks by HSBC provides investment opportunities.",
   "key_themes": [
     "Fed Policy",
     "Inflation",
-    "Banking",
-    "Global Economy"
+    "Earnings",
+    "Markets"
   ],
-  "market_sentiment": "cautious",
-  "updated": "2026-07-15T07:23:56.388590",
+  "market_sentiment": "neutral",
+  "updated": "2026-07-16T07:32:51.330519",
   "sources_checked": 7,
-  "articles_processed": 21
+  "articles_processed": 29
 }
