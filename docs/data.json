@@ -1,56 +1,56 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "top_stories": [
     {
       "rank": 1,
-      "title": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
+      "title": "India's biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy",
       "source": "CNBC Finance",
-      "category": "Fed Policy",
+      "category": "Markets",
       "importance_score": 9,
-      "insight": "The testimony indicates the Fed's stance on the economy and interest rates, which can significantly impact the market."
+      "insight": "This IPO's success indicates a strong appetite for investment in India's growing economy."
     },
     {
       "rank": 2,
-      "title": "Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambling'",
+      "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
       "source": "CNBC Finance",
-      "category": "Markets",
-      "importance_score": 8,
-      "insight": "Buffett's statement reflects the current market sentiment and highlights the challenges of finding valuable investments."
+      "category": "Fed Policy",
+      "importance_score": 9,
+      "insight": "The potential interest rate hike could impact the overall economy and inflation rates."
     },
     {
       "rank": 3,
       "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
       "source": "CNBC Finance",
       "category": "Earnings",
-      "importance_score": 9,
-      "insight": "The record revenue and profit indicate a strong performance by Morgan Stanley, which can impact the overall market."
+      "importance_score": 8,
+      "insight": "The record revenue and profit indicate a strong performance by Morgan Stanley in the current market."
     },
     {
       "rank": 4,
+      "title": "UBS, Deutsche Bank Raise Stoxx 600 Targets as European Stocks Rally",
+      "source": "Bloomberg Markets",
+      "category": "Markets",
+      "importance_score": 8,
+      "insight": "The increased targets reflect the growing confidence in European stocks."
+    },
+    {
+      "rank": 5,
       "title": "New York Fed President Williams says inflation has peaked, rates 'well positioned'",
       "source": "CNBC Finance",
       "category": "Inflation",
       "importance_score": 9,
-      "insight": "The statement by the New York Fed President provides insight into the current inflation situation and the Fed's stance on interest rates."
-    },
-    {
-      "rank": 5,
-      "title": "HSBC Upgrades Indian Stocks as Earnings Risk from Oil Subsides",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
-      "importance_score": 8,
-      "insight": "The upgrade of Indian stocks by HSBC can impact the market and provide investment opportunities."
+      "insight": "The statement on inflation peaking could impact the future of interest rates and the overall economy."
     }
   ],
-  "daily_summary": "The market is currently experiencing a mix of positive and negative trends, with the Fed's testimony and inflation statements providing insight into the economy. The record revenue and profit posted by Morgan Stanley indicate a strong performance, while the upgrade of Indian stocks by HSBC provides investment opportunities.",
+  "daily_summary": "The market is seeing a mix of strong IPO performances, potential interest rate hikes, and record revenues from major banks. Inflation rates are also being closely watched, with some predictions that they may have peaked.",
   "key_themes": [
-    "Fed Policy",
+    "IPOs",
+    "Interest Rates",
     "Inflation",
-    "Earnings",
-    "Markets"
+    "Banking"
   ],
-  "market_sentiment": "neutral",
-  "updated": "2026-07-16T07:32:51.330519",
+  "market_sentiment": "cautiously optimistic",
+  "updated": "2026-07-17T07:29:36.845647",
   "sources_checked": 7,
   "articles_processed": 29
 }
