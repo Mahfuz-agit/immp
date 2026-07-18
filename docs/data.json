@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "top_stories": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "source": "CNBC Finance",
       "category": "Markets",
       "importance_score": 9,
-      "insight": "This IPO's success indicates a strong appetite for investment in India's growing economy."
+      "insight": "This massive IPO bid indicates a strong appetite for investment in India's growing economy."
     },
     {
       "rank": 2,
@@ -15,7 +15,7 @@
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "The potential interest rate hike could impact the overall economy and inflation rates."
+      "insight": "The call for higher interest rates may impact the overall economy and inflation rates."
     },
     {
       "rank": 3,
@@ -27,30 +27,31 @@
     },
     {
       "rank": 4,
-      "title": "UBS, Deutsche Bank Raise Stoxx 600 Targets as European Stocks Rally",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
-      "importance_score": 8,
-      "insight": "The increased targets reflect the growing confidence in European stocks."
-    },
-    {
-      "rank": 5,
       "title": "New York Fed President Williams says inflation has peaked, rates 'well positioned'",
       "source": "CNBC Finance",
       "category": "Inflation",
-      "importance_score": 9,
-      "insight": "The statement on inflation peaking could impact the future of interest rates and the overall economy."
+      "importance_score": 8,
+      "insight": "The statement on inflation peaking may influence market expectations and monetary policy decisions."
+    },
+    {
+      "rank": 5,
+      "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
+      "source": "CNBC Finance",
+      "category": "Banking",
+      "importance_score": 8,
+      "insight": "The AI boom's impact on major banks like Goldman Sachs and JPMorgan Chase may lead to significant changes in the banking sector."
     }
   ],
-  "daily_summary": "The market is seeing a mix of strong IPO performances, potential interest rate hikes, and record revenues from major banks. Inflation rates are also being closely watched, with some predictions that they may have peaked.",
+  "daily_summary": "The market is experiencing significant developments, including a massive IPO in India, calls for higher interest rates, and record profits for Morgan Stanley. Inflation rates and the AI boom are also having a substantial impact on the economy and major banks.",
   "key_themes": [
     "IPOs",
     "Interest Rates",
+    "AI Boom",
     "Inflation",
-    "Banking"
+    "Banking Sector"
   ],
-  "market_sentiment": "cautiously optimistic",
-  "updated": "2026-07-17T07:29:36.845647",
+  "market_sentiment": "bullish",
+  "updated": "2026-07-18T06:30:13.195175",
   "sources_checked": 7,
-  "articles_processed": 29
+  "articles_processed": 31
 }
