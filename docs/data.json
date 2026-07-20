@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "top_stories": [
     {
       "rank": 1,
@@ -7,51 +7,50 @@
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "This indicates a potential shift in the Fed's monetary policy, which could impact interest rates and the overall economy."
+      "insight": "This indicates a potential shift in monetary policy, affecting interest rates and the overall economy."
     },
     {
       "rank": 2,
-      "title": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
-      "source": "CNBC Finance",
-      "category": "Fed Policy",
-      "importance_score": 9,
-      "insight": "The Fed Chairman's testimony provides valuable insights into the current state of the economy and potential future policy decisions."
-    },
-    {
-      "rank": 3,
-      "title": "New York Fed President Williams says inflation has peaked, rates 'well positioned'",
-      "source": "CNBC Finance",
-      "category": "Inflation",
-      "importance_score": 8,
-      "insight": "This statement suggests that inflation may be under control, which could influence future interest rate decisions."
-    },
-    {
-      "rank": 4,
-      "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
-      "source": "CNBC Finance",
-      "category": "Earnings",
-      "importance_score": 8,
-      "insight": "This strong earnings report indicates a positive trend in the banking sector and could impact the overall market."
-    },
-    {
-      "rank": 5,
       "title": "India's biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy",
       "source": "CNBC Finance",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "This successful IPO suggests a strong demand for investment opportunities in the Indian market."
+      "insight": "This highlights the strong demand for initial public offerings, reflecting investor confidence in the market."
+    },
+    {
+      "rank": 3,
+      "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
+      "source": "CNBC Finance",
+      "category": "Earnings",
+      "importance_score": 9,
+      "insight": "This demonstrates the strong performance of the financial sector, driven by increased trading activity."
+    },
+    {
+      "rank": 4,
+      "title": "New York Fed President Williams says inflation has peaked, rates 'well positioned'",
+      "source": "CNBC Finance",
+      "category": "Inflation",
+      "importance_score": 9,
+      "insight": "This suggests that inflation may be under control, and interest rates are appropriately set to support the economy."
+    },
+    {
+      "rank": 5,
+      "title": "Gold Falls as US-Iran Hostilities Keep Rate Hike Bets on Table",
+      "source": "Bloomberg Markets",
+      "category": "Markets",
+      "importance_score": 8,
+      "insight": "Geopolitical tensions are impacting commodity prices and monetary policy expectations."
     }
   ],
-  "daily_summary": "The financial market is experiencing a mix of trends, with the Fed potentially shifting its monetary policy, inflation possibly peaking, and strong earnings reports from major banks. The Indian market is also seeing significant investment activity, with a major IPO attracting substantial bids.",
+  "daily_summary": "The financial markets are responding to various factors, including Fed policy, inflation, and earnings reports. The potential for higher interest rates and the impact of geopolitical events are also being closely watched.",
   "key_themes": [
     "Fed Policy",
     "Inflation",
-    "Banking",
-    "Markets",
-    "Earnings"
+    "Earnings",
+    "Geopolitics"
   ],
-  "market_sentiment": "cautiously_optimistic",
-  "updated": "2026-07-19T07:36:58.655073",
+  "market_sentiment": "cautious",
+  "updated": "2026-07-20T00:01:56.950554",
   "sources_checked": 7,
-  "articles_processed": 24
+  "articles_processed": 30
 }
