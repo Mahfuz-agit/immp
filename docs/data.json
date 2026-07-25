@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "top_stories": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "The potential rate hike by the Federal Reserve could significantly impact the economy, especially with rising oil prices."
+      "insight": "The potential rate hike by the Federal Reserve could significantly impact the economy and markets."
     },
     {
       "rank": 2,
@@ -15,42 +15,42 @@
       "source": "CNBC Finance",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "The growth of AI-themed ETFs indicates a shift in investor interest towards artificial intelligence, despite a rough quarter."
+      "insight": "The growth of AI-themed ETFs indicates a shift in investor interest towards artificial intelligence."
     },
     {
       "rank": 3,
-      "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
+      "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
       "source": "CNBC Finance",
-      "category": "Banking",
-      "importance_score": 9,
-      "insight": "The creation of a private markets platform by Goldman Sachs could provide new investment opportunities for wealthy investors."
+      "category": "Markets",
+      "importance_score": 8,
+      "insight": "The predicted bull market for gold could lead to increased investment in the precious metal."
     },
     {
       "rank": 4,
-      "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+      "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
       "source": "CNBC Finance",
-      "category": "Markets",
-      "importance_score": 9,
-      "insight": "Jamie Dimon's statement suggests that the market may be overvalued, and investors should exercise caution."
+      "category": "Banking",
+      "importance_score": 8,
+      "insight": "The new platform could provide opportunities for investors to invest in promising startups."
     },
     {
       "rank": 5,
-      "title": "India's biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy",
-      "source": "CNBC Finance",
-      "category": "Earnings",
-      "importance_score": 8,
-      "insight": "The success of India's largest IPO this year indicates a strong demand for investment opportunities in the region."
+      "title": "Global Bonds Are Reeling as Oil Surge Rekindles Inflation Threat",
+      "source": "Bloomberg Markets",
+      "category": "Global",
+      "importance_score": 9,
+      "insight": "The surge in oil prices could lead to increased inflation, affecting global bonds and economies."
     }
   ],
-  "daily_summary": "The financial market is experiencing significant fluctuations due to rising oil prices, geopolitical tensions, and shifting investor interests. The Federal Reserve's potential rate hike and the growth of AI-themed ETFs are also major factors influencing the market.",
+  "daily_summary": "The financial markets are experiencing significant changes due to the surge in oil prices, potential Federal Reserve rate hike, and growth of AI-themed ETFs.",
   "key_themes": [
     "Oil Prices",
-    "AI Investment",
     "Federal Reserve",
-    "Geopolitical Tensions"
+    "AI-themed ETFs",
+    "Inflation"
   ],
-  "market_sentiment": "bearish",
-  "updated": "2026-07-24T00:05:15.283740",
+  "market_sentiment": "cautious",
+  "updated": "2026-07-25T00:09:24.104769",
   "sources_checked": 7,
-  "articles_processed": 39
+  "articles_processed": 41
 }
