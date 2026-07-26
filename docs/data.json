@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "top_stories": [
     {
       "rank": 1,
@@ -11,11 +11,11 @@
     },
     {
       "rank": 2,
-      "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
+      "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
       "source": "CNBC Finance",
       "category": "Markets",
-      "importance_score": 8,
-      "insight": "The growth of AI-themed ETFs indicates a shift in investor interest towards artificial intelligence."
+      "importance_score": 9,
+      "insight": "Jamie Dimon's comments on market risks could influence investor decisions and market trends."
     },
     {
       "rank": 3,
@@ -23,34 +23,33 @@
       "source": "CNBC Finance",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "The predicted bull market for gold could lead to increased investment in the precious metal."
+      "insight": "John Paulson's prediction of a bull market for gold could impact investor decisions and gold prices."
     },
     {
       "rank": 4,
-      "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
-      "source": "CNBC Finance",
-      "category": "Banking",
+      "title": "Investors increase bets on Federal Reserve rate rise after oil price surge",
+      "source": "Financial Times",
+      "category": "Fed Policy",
       "importance_score": 8,
-      "insight": "The new platform could provide opportunities for investors to invest in promising startups."
+      "insight": "The surge in oil prices has led to increased bets on a Federal Reserve rate rise, which could impact the economy and markets."
     },
     {
       "rank": 5,
-      "title": "Global Bonds Are Reeling as Oil Surge Rekindles Inflation Threat",
-      "source": "Bloomberg Markets",
-      "category": "Global",
-      "importance_score": 9,
-      "insight": "The surge in oil prices could lead to increased inflation, affecting global bonds and economies."
+      "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
+      "source": "Yahoo Finance",
+      "category": "Markets",
+      "importance_score": 8,
+      "insight": "The Dow Jones Futures triggering a sell signal could indicate a potential market downturn."
     }
   ],
-  "daily_summary": "The financial markets are experiencing significant changes due to the surge in oil prices, potential Federal Reserve rate hike, and growth of AI-themed ETFs.",
+  "daily_summary": "The financial markets are experiencing significant volatility due to various factors, including the potential Federal Reserve rate hike, oil price surge, and geopolitical tensions. Investors are advised to exercise caution and closely monitor market developments.",
   "key_themes": [
-    "Oil Prices",
-    "Federal Reserve",
-    "AI-themed ETFs",
-    "Inflation"
+    "Fed Policy",
+    "Inflation",
+    "Geopolitical Tensions"
   ],
-  "market_sentiment": "cautious",
-  "updated": "2026-07-25T00:09:24.104769",
+  "market_sentiment": "bearish",
+  "updated": "2026-07-26T00:04:57.459487",
   "sources_checked": 7,
-  "articles_processed": 41
+  "articles_processed": 25
 }
