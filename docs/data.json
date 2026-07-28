@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "top_stories": [
     {
       "rank": 1,
@@ -19,37 +19,37 @@
     },
     {
       "rank": 3,
-      "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
-      "source": "CNBC Finance",
+      "title": "JPMorgan Sees S&P 500 Set to Rally as a Buy Signal Flashes",
+      "source": "Bloomberg Markets",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "A potential bull market for gold could have significant implications for investors and the economy."
+      "insight": "The potential rally in the S&P 500 could be a significant turning point for the market."
     },
     {
       "rank": 4,
-      "title": "Gold Climbs as Pause in Mideast Fighting Curbs Inflation Risk",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
+      "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
+      "source": "CNBC Finance",
+      "category": "Banking",
       "importance_score": 8,
-      "insight": "The increase in gold prices could be a sign of investor caution and a hedge against inflation."
+      "insight": "The creation of a private markets platform by Goldman Sachs could provide new investment opportunities for wealthy investors."
     },
     {
       "rank": 5,
-      "title": "Bond Traders on Edge as Risks of Fed Rate Hike This Week Mount",
+      "title": "Treasuries Rise as Elevated Yields Attract Buyers Before Fed",
       "source": "Bloomberg Markets",
-      "category": "Fed Policy",
+      "category": "Markets",
       "importance_score": 8,
-      "insight": "The potential rate hike by the Federal Reserve could have significant implications for bond traders and the economy."
+      "insight": "The increase in Treasury yields could attract more buyers and impact the overall market."
     }
   ],
-  "daily_summary": "The market is awaiting the Federal Reserve's decision on interest rates, with many experts predicting a rate hike. Meanwhile, gold prices are increasing due to investor caution and a hedge against inflation. Jamie Dimon's comments suggest that the market may be overvalued and due for a correction.",
+  "daily_summary": "The market is experiencing significant volatility due to various factors, including the potential Federal Reserve rate hike, geopolitical tensions, and concerns about overvaluation. Investors are seeking new investment opportunities, and the creation of private markets platforms could provide alternative options.",
   "key_themes": [
     "Fed Policy",
-    "Inflation",
-    "Market Volatility"
+    "Market Volatility",
+    "Investment Opportunities"
   ],
   "market_sentiment": "cautious",
-  "updated": "2026-07-27T00:05:44.595400",
+  "updated": "2026-07-28T00:05:53.270251",
   "sources_checked": 7,
-  "articles_processed": 33
+  "articles_processed": 32
 }
