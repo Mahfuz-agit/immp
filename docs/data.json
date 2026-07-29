@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "top_stories": [
     {
       "rank": 1,
@@ -11,45 +11,46 @@
     },
     {
       "rank": 2,
-      "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-      "source": "CNBC Finance",
-      "category": "Markets",
-      "importance_score": 9,
-      "insight": "Jamie Dimon's comments suggest that the market may be overvalued and due for a correction."
+      "title": "Gold Edges Lower as Traders Assess Prospects for Fed Rate Hike",
+      "source": "Bloomberg Markets",
+      "category": "Fed Policy",
+      "importance_score": 8,
+      "insight": "The price of gold is closely tied to the prospects of a Fed rate hike, which could influence investor decisions."
     },
     {
       "rank": 3,
-      "title": "JPMorgan Sees S&P 500 Set to Rally as a Buy Signal Flashes",
-      "source": "Bloomberg Markets",
+      "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
+      "source": "CNBC Finance",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "The potential rally in the S&P 500 could be a significant turning point for the market."
+      "insight": "A bull market for gold could have significant implications for investors and the overall market."
     },
     {
       "rank": 4,
-      "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
-      "source": "CNBC Finance",
-      "category": "Banking",
-      "importance_score": 8,
-      "insight": "The creation of a private markets platform by Goldman Sachs could provide new investment opportunities for wealthy investors."
+      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+      "source": "WSJ Markets",
+      "category": "Markets",
+      "importance_score": 9,
+      "insight": "The AI rout could have far-reaching consequences for the stock market and the tech industry."
     },
     {
       "rank": 5,
-      "title": "Treasuries Rise as Elevated Yields Attract Buyers Before Fed",
-      "source": "Bloomberg Markets",
+      "title": "Hedge funds face demands to stump up collateral as AI stocks tumble",
+      "source": "Financial Times",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "The increase in Treasury yields could attract more buyers and impact the overall market."
+      "insight": "The decline of AI stocks is putting pressure on hedge funds, which could lead to further market volatility."
     }
   ],
-  "daily_summary": "The market is experiencing significant volatility due to various factors, including the potential Federal Reserve rate hike, geopolitical tensions, and concerns about overvaluation. Investors are seeking new investment opportunities, and the creation of private markets platforms could provide alternative options.",
+  "daily_summary": "The market is experiencing significant volatility due to the potential Federal Reserve rate hike, the surge in oil prices, and the decline of AI stocks. Investors are closely watching the developments and assessing their implications for the economy and markets.",
   "key_themes": [
     "Fed Policy",
-    "Market Volatility",
-    "Investment Opportunities"
+    "Inflation",
+    "Markets",
+    "AI"
   ],
-  "market_sentiment": "cautious",
-  "updated": "2026-07-28T00:05:53.270251",
+  "market_sentiment": "bearish",
+  "updated": "2026-07-29T00:02:38.824129",
   "sources_checked": 7,
-  "articles_processed": 32
+  "articles_processed": 37
 }
