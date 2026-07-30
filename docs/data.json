@@ -1,56 +1,55 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "top_stories": [
     {
       "rank": 1,
-      "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
+      "title": "Divided Fed holds interest rates steady, but three members voted to hike",
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "The potential rate hike by the Federal Reserve could significantly impact the economy and markets."
+      "insight": "The decision indicates a split within the Fed on how to address inflation."
     },
     {
       "rank": 2,
-      "title": "Gold Edges Lower as Traders Assess Prospects for Fed Rate Hike",
+      "title": "Bond Rout Sends Warning to Warsh That Tough Talk Is Not Enough",
       "source": "Bloomberg Markets",
-      "category": "Fed Policy",
-      "importance_score": 8,
-      "insight": "The price of gold is closely tied to the prospects of a Fed rate hike, which could influence investor decisions."
+      "category": "Inflation",
+      "importance_score": 9,
+      "insight": "The bond market is signaling that the Fed needs to take concrete actions to combat inflation."
     },
     {
       "rank": 3,
-      "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
+      "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
       "source": "CNBC Finance",
-      "category": "Markets",
+      "category": "Fed Policy",
       "importance_score": 8,
-      "insight": "A bull market for gold could have significant implications for investors and the overall market."
+      "insight": "Rising oil prices are increasing the likelihood of a rate hike in the near future."
     },
     {
       "rank": 4,
-      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-      "source": "WSJ Markets",
-      "category": "Markets",
-      "importance_score": 9,
-      "insight": "The AI rout could have far-reaching consequences for the stock market and the tech industry."
+      "title": "Fed’s Warsh Rebuked by Investors Craving a Real Inflation Fight",
+      "source": "Bloomberg Markets",
+      "category": "Inflation",
+      "importance_score": 8,
+      "insight": "Investors are pushing for more aggressive action from the Fed to combat inflation."
     },
     {
       "rank": 5,
-      "title": "Hedge funds face demands to stump up collateral as AI stocks tumble",
+      "title": "US borrowing costs hit 19-year high as Fed defies inflation fears",
       "source": "Financial Times",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "The decline of AI stocks is putting pressure on hedge funds, which could lead to further market volatility."
+      "insight": "The increase in borrowing costs reflects the market's expectations of future rate hikes."
     }
   ],
-  "daily_summary": "The market is experiencing significant volatility due to the potential Federal Reserve rate hike, the surge in oil prices, and the decline of AI stocks. Investors are closely watching the developments and assessing their implications for the economy and markets.",
+  "daily_summary": "The Fed's decision to hold interest rates steady has sparked a mixed reaction from investors, with some calling for more aggressive action to combat inflation. The bond market is signaling that tough talk is not enough, and rising oil prices are increasing the likelihood of a rate hike in the near future.",
   "key_themes": [
-    "Fed Policy",
     "Inflation",
-    "Markets",
-    "AI"
+    "Fed Policy",
+    "Interest Rates"
   ],
-  "market_sentiment": "bearish",
-  "updated": "2026-07-29T00:02:38.824129",
+  "market_sentiment": "cautious",
+  "updated": "2026-07-30T00:04:17.892125",
   "sources_checked": 7,
-  "articles_processed": 37
+  "articles_processed": 41
 }
