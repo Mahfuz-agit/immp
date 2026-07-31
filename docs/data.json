@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "top_stories": [
     {
       "rank": 1,
@@ -7,49 +7,49 @@
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "The decision indicates a split within the Fed on how to address inflation."
+      "insight": "The decision reflects the ongoing debate within the Fed about the appropriate response to inflation."
     },
     {
       "rank": 2,
-      "title": "Bond Rout Sends Warning to Warsh That Tough Talk Is Not Enough",
-      "source": "Bloomberg Markets",
+      "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
+      "source": "CNBC Finance",
       "category": "Inflation",
-      "importance_score": 9,
-      "insight": "The bond market is signaling that the Fed needs to take concrete actions to combat inflation."
+      "importance_score": 8,
+      "insight": "Gundlach's comments highlight the growing concern about inflation and the need for the Fed to take action."
     },
     {
       "rank": 3,
-      "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
-      "source": "CNBC Finance",
+      "title": "Warsh’s stripped-back Fed communication ‘already backfiring’, say investors",
+      "source": "Financial Times",
       "category": "Fed Policy",
       "importance_score": 8,
-      "insight": "Rising oil prices are increasing the likelihood of a rate hike in the near future."
+      "insight": "The criticism of Warsh's communication style suggests that the Fed's approach may not be effective in conveying its policy intentions."
     },
     {
       "rank": 4,
-      "title": "Fed’s Warsh Rebuked by Investors Craving a Real Inflation Fight",
-      "source": "Bloomberg Markets",
-      "category": "Inflation",
-      "importance_score": 8,
-      "insight": "Investors are pushing for more aggressive action from the Fed to combat inflation."
+      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+      "source": "WSJ Markets",
+      "category": "Markets",
+      "importance_score": 9,
+      "insight": "The decline in stocks reflects the growing uncertainty about the impact of AI on the market."
     },
     {
       "rank": 5,
-      "title": "US borrowing costs hit 19-year high as Fed defies inflation fears",
-      "source": "Financial Times",
+      "title": "Chip Stocks Post Biggest Advance Since April 2025: Markets Wrap",
+      "source": "Bloomberg Markets",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "The increase in borrowing costs reflects the market's expectations of future rate hikes."
+      "insight": "The surge in chip stocks suggests that the sector may be recovering from recent declines."
     }
   ],
-  "daily_summary": "The Fed's decision to hold interest rates steady has sparked a mixed reaction from investors, with some calling for more aggressive action to combat inflation. The bond market is signaling that tough talk is not enough, and rising oil prices are increasing the likelihood of a rate hike in the near future.",
+  "daily_summary": "The Fed's decision to hold interest rates steady has sparked debate about the appropriate response to inflation, while the market is also reacting to the growing uncertainty about AI and its impact on stocks.",
   "key_themes": [
-    "Inflation",
     "Fed Policy",
-    "Interest Rates"
+    "Inflation",
+    "AI Impact"
   ],
   "market_sentiment": "cautious",
-  "updated": "2026-07-30T00:04:17.892125",
+  "updated": "2026-07-31T00:07:59.889526",
   "sources_checked": 7,
-  "articles_processed": 41
+  "articles_processed": 37
 }
