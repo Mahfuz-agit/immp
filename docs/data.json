@@ -1,55 +1,55 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "top_stories": [
     {
       "rank": 1,
+      "title": "Fed officials who voted to hike rates say action is needed now against inflation",
+      "source": "CNBC Finance",
+      "category": "Inflation",
+      "importance_score": 9,
+      "insight": "This indicates a strong stance from Fed officials to combat inflation, which could impact interest rates and the overall economy."
+    },
+    {
+      "rank": 2,
       "title": "Divided Fed holds interest rates steady, but three members voted to hike",
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "The decision reflects the ongoing debate within the Fed about the appropriate response to inflation."
-    },
-    {
-      "rank": 2,
-      "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
-      "source": "CNBC Finance",
-      "category": "Inflation",
-      "importance_score": 8,
-      "insight": "Gundlach's comments highlight the growing concern about inflation and the need for the Fed to take action."
+      "insight": "The division among Fed members suggests uncertainty in monetary policy, which could lead to market volatility."
     },
     {
       "rank": 3,
-      "title": "Warsh’s stripped-back Fed communication ‘already backfiring’, say investors",
+      "title": "US Treasury undertakes historic intervention in yen market",
       "source": "Financial Times",
-      "category": "Fed Policy",
+      "category": "Global",
       "importance_score": 8,
-      "insight": "The criticism of Warsh's communication style suggests that the Fed's approach may not be effective in conveying its policy intentions."
+      "insight": "This intervention could have significant implications for currency markets and global trade."
     },
     {
       "rank": 4,
-      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-      "source": "WSJ Markets",
-      "category": "Markets",
-      "importance_score": 9,
-      "insight": "The decline in stocks reflects the growing uncertainty about the impact of AI on the market."
+      "title": "Bond sell-off sent warning on Fed’s credibility, says top central bank official",
+      "source": "Financial Times",
+      "category": "Fed Policy",
+      "importance_score": 8,
+      "insight": "The bond sell-off may indicate a loss of confidence in the Fed's ability to manage inflation and interest rates."
     },
     {
       "rank": 5,
-      "title": "Chip Stocks Post Biggest Advance Since April 2025: Markets Wrap",
+      "title": "Warsh's 'Ambitious Agenda' Needs Broad Market Understanding: Clarida",
       "source": "Bloomberg Markets",
-      "category": "Markets",
+      "category": "Fed Policy",
       "importance_score": 8,
-      "insight": "The surge in chip stocks suggests that the sector may be recovering from recent declines."
+      "insight": "Clarida's comments suggest that Warsh's agenda may face challenges in implementation and market reception."
     }
   ],
-  "daily_summary": "The Fed's decision to hold interest rates steady has sparked debate about the appropriate response to inflation, while the market is also reacting to the growing uncertainty about AI and its impact on stocks.",
+  "daily_summary": "The Fed's recent meeting and statements have sparked debate and uncertainty in the markets, with some officials pushing for rate hikes to combat inflation. The US Treasury's intervention in the yen market has also made headlines, with potential implications for global trade and currency markets.",
   "key_themes": [
-    "Fed Policy",
     "Inflation",
-    "AI Impact"
+    "Fed Policy",
+    "Global Markets"
   ],
   "market_sentiment": "cautious",
-  "updated": "2026-07-31T00:07:59.889526",
+  "updated": "2026-08-01T00:04:46.862161",
   "sources_checked": 7,
-  "articles_processed": 37
+  "articles_processed": 45
 }
