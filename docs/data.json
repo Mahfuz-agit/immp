@@ -1,55 +1,55 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "top_stories": [
     {
       "rank": 1,
+      "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
+      "source": "CNBC Finance",
+      "category": "Fed Policy",
+      "importance_score": 9,
+      "insight": "This matters because it indicates a potential shift in investor focus towards the short-term yield curve in anticipation of future Fed meetings."
+    },
+    {
+      "rank": 2,
       "title": "Fed officials who voted to hike rates say action is needed now against inflation",
       "source": "CNBC Finance",
       "category": "Inflation",
       "importance_score": 9,
-      "insight": "This indicates a strong stance from Fed officials to combat inflation, which could impact interest rates and the overall economy."
-    },
-    {
-      "rank": 2,
-      "title": "Divided Fed holds interest rates steady, but three members voted to hike",
-      "source": "CNBC Finance",
-      "category": "Fed Policy",
-      "importance_score": 9,
-      "insight": "The division among Fed members suggests uncertainty in monetary policy, which could lead to market volatility."
+      "insight": "This matters because it highlights the urgency of addressing inflation according to Fed officials who voted for a rate hike."
     },
     {
       "rank": 3,
-      "title": "US Treasury undertakes historic intervention in yen market",
-      "source": "Financial Times",
-      "category": "Global",
+      "title": "Warsh’s Silent Treatment Has S&P Traders Bracing for Wild Swings",
+      "source": "Bloomberg Markets",
+      "category": "Markets",
       "importance_score": 8,
-      "insight": "This intervention could have significant implications for currency markets and global trade."
+      "insight": "This matters because it suggests that the lack of communication from Warsh may lead to increased market volatility."
     },
     {
       "rank": 4,
-      "title": "Bond sell-off sent warning on Fed’s credibility, says top central bank official",
-      "source": "Financial Times",
-      "category": "Fed Policy",
+      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+      "source": "WSJ Markets",
+      "category": "Markets",
       "importance_score": 8,
-      "insight": "The bond sell-off may indicate a loss of confidence in the Fed's ability to manage inflation and interest rates."
+      "insight": "This matters because it indicates a significant impact of the AI sector on the broader market."
     },
     {
       "rank": 5,
-      "title": "Warsh's 'Ambitious Agenda' Needs Broad Market Understanding: Clarida",
-      "source": "Bloomberg Markets",
-      "category": "Fed Policy",
+      "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
+      "source": "CNBC Finance",
+      "category": "Inflation",
       "importance_score": 8,
-      "insight": "Clarida's comments suggest that Warsh's agenda may face challenges in implementation and market reception."
+      "insight": "This matters because it highlights the bond market's signal to the Fed to address inflation."
     }
   ],
-  "daily_summary": "The Fed's recent meeting and statements have sparked debate and uncertainty in the markets, with some officials pushing for rate hikes to combat inflation. The US Treasury's intervention in the yen market has also made headlines, with potential implications for global trade and currency markets.",
+  "daily_summary": "The financial markets are experiencing significant developments, with a focus on the Fed's future meetings, inflation, and the impact of the AI sector. Investors are advised to focus on the front end of the yield curve and prepare for potential market volatility.",
   "key_themes": [
-    "Inflation",
     "Fed Policy",
-    "Global Markets"
+    "Inflation",
+    "Market Volatility"
   ],
   "market_sentiment": "cautious",
-  "updated": "2026-08-01T00:04:46.862161",
+  "updated": "2026-08-02T00:01:41.906195",
   "sources_checked": 7,
-  "articles_processed": 45
+  "articles_processed": 34
 }
