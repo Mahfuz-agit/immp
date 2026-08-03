@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "top_stories": [
     {
       "rank": 1,
@@ -15,15 +15,15 @@
       "source": "CNBC Finance",
       "category": "Inflation",
       "importance_score": 9,
-      "insight": "This matters because it highlights the urgency of addressing inflation according to Fed officials who voted for a rate hike."
+      "insight": "This matters because it highlights the urgency of addressing inflation, which could impact monetary policy decisions."
     },
     {
       "rank": 3,
-      "title": "Warsh’s Silent Treatment Has S&P Traders Bracing for Wild Swings",
+      "title": "US Treasury’s Firepower for Yen Support May Be Limited, JPM Says",
       "source": "Bloomberg Markets",
-      "category": "Markets",
+      "category": "Global",
       "importance_score": 8,
-      "insight": "This matters because it suggests that the lack of communication from Warsh may lead to increased market volatility."
+      "insight": "This matters because it suggests that the US Treasury may have limited ability to support the yen, which could impact currency markets."
     },
     {
       "rank": 4,
@@ -31,25 +31,27 @@
       "source": "WSJ Markets",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "This matters because it indicates a significant impact of the AI sector on the broader market."
+      "insight": "This matters because it indicates a significant impact of AI-related news on the stock market, which could lead to further volatility."
     },
     {
       "rank": 5,
-      "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
-      "source": "CNBC Finance",
-      "category": "Inflation",
+      "title": "America’s biggest companies report ‘rock solid’ profits as consumers face higher costs",
+      "source": "Financial Times",
+      "category": "Earnings",
       "importance_score": 8,
-      "insight": "This matters because it highlights the bond market's signal to the Fed to address inflation."
+      "insight": "This matters because it highlights the resilience of corporate profits despite rising consumer costs, which could impact future earnings expectations."
     }
   ],
-  "daily_summary": "The financial markets are experiencing significant developments, with a focus on the Fed's future meetings, inflation, and the impact of the AI sector. Investors are advised to focus on the front end of the yield curve and prepare for potential market volatility.",
+  "daily_summary": "The financial markets are focused on the upcoming Fed meetings and the potential impact on inflation, with investors shifting their attention to the short-term yield curve. Meanwhile, the US Treasury's ability to support the yen is being questioned, and AI-related news is causing volatility in the stock market. Corporate profits remain strong despite rising consumer costs.",
   "key_themes": [
     "Fed Policy",
     "Inflation",
-    "Market Volatility"
+    "Global Markets",
+    "Earnings",
+    "AI Impact"
   ],
   "market_sentiment": "cautious",
-  "updated": "2026-08-02T00:01:41.906195",
+  "updated": "2026-08-03T00:02:39.413831",
   "sources_checked": 7,
-  "articles_processed": 34
+  "articles_processed": 36
 }
