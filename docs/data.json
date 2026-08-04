@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "top_stories": [
     {
       "rank": 1,
       "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
       "source": "CNBC Finance",
-      "category": "Fed Policy",
+      "category": "Markets",
       "importance_score": 9,
       "insight": "This matters because it indicates a potential shift in investor focus towards the short-term yield curve in anticipation of future Fed meetings."
     },
@@ -13,45 +13,43 @@
       "rank": 2,
       "title": "Fed officials who voted to hike rates say action is needed now against inflation",
       "source": "CNBC Finance",
-      "category": "Inflation",
+      "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "This matters because it highlights the urgency of addressing inflation, which could impact monetary policy decisions."
+      "insight": "This matters because it highlights the Fed's commitment to combating inflation through rate hikes."
     },
     {
       "rank": 3,
-      "title": "US Treasury’s Firepower for Yen Support May Be Limited, JPM Says",
-      "source": "Bloomberg Markets",
-      "category": "Global",
+      "title": "Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
+      "source": "CNBC Finance",
+      "category": "Markets",
       "importance_score": 8,
-      "insight": "This matters because it suggests that the US Treasury may have limited ability to support the yen, which could impact currency markets."
+      "insight": "This matters because it showcases the risks and volatility associated with AI-powered hedge funds."
     },
     {
       "rank": 4,
-      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-      "source": "WSJ Markets",
+      "title": "Nasdaq Futures Rise After Tech Rally, Yen Steadies: Markets Wrap",
+      "source": "Bloomberg Markets",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "This matters because it indicates a significant impact of AI-related news on the stock market, which could lead to further volatility."
+      "insight": "This matters because it indicates a potential rebound in tech stocks and stability in the yen."
     },
     {
       "rank": 5,
-      "title": "America’s biggest companies report ‘rock solid’ profits as consumers face higher costs",
-      "source": "Financial Times",
-      "category": "Earnings",
-      "importance_score": 8,
-      "insight": "This matters because it highlights the resilience of corporate profits despite rising consumer costs, which could impact future earnings expectations."
+      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+      "source": "WSJ Markets",
+      "category": "Markets",
+      "importance_score": 9,
+      "insight": "This matters because it highlights the impact of AI-related news on the stock market."
     }
   ],
-  "daily_summary": "The financial markets are focused on the upcoming Fed meetings and the potential impact on inflation, with investors shifting their attention to the short-term yield curve. Meanwhile, the US Treasury's ability to support the yen is being questioned, and AI-related news is causing volatility in the stock market. Corporate profits remain strong despite rising consumer costs.",
+  "daily_summary": "The financial markets are experiencing a mix of trends, with some stocks rebounding and others sinking due to AI-related news. The Fed remains committed to combating inflation through rate hikes, and investors are shifting their focus towards the short-term yield curve.",
   "key_themes": [
-    "Fed Policy",
+    "AI",
     "Inflation",
-    "Global Markets",
-    "Earnings",
-    "AI Impact"
+    "Fed Policy"
   ],
   "market_sentiment": "cautious",
-  "updated": "2026-08-03T00:02:39.413831",
+  "updated": "2026-08-04T00:12:25.291444",
   "sources_checked": 7,
-  "articles_processed": 36
+  "articles_processed": 33
 }
