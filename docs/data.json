@@ -1,13 +1,13 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "top_stories": [
     {
       "rank": 1,
-      "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
+      "title": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
       "source": "CNBC Finance",
-      "category": "Markets",
+      "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "This matters because it indicates a potential shift in investor focus towards the short-term yield curve in anticipation of future Fed meetings."
+      "insight": "This matters because it indicates the Fed's stance on interest rates, which can impact the overall economy."
     },
     {
       "rank": 2,
@@ -15,41 +15,41 @@
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "This matters because it highlights the Fed's commitment to combating inflation through rate hikes."
+      "insight": "This matters because it shows the Fed's commitment to controlling inflation, which can affect monetary policy."
     },
     {
       "rank": 3,
-      "title": "Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
+      "title": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
       "source": "CNBC Finance",
-      "category": "Markets",
+      "category": "Banking",
       "importance_score": 8,
-      "insight": "This matters because it showcases the risks and volatility associated with AI-powered hedge funds."
+      "insight": "This matters because it highlights regulatory concerns in the financial industry."
     },
     {
       "rank": 4,
-      "title": "Nasdaq Futures Rise After Tech Rally, Yen Steadies: Markets Wrap",
+      "title": "SpaceX exceeds revenue estimates in first earnings report since IPO",
       "source": "Bloomberg Markets",
-      "category": "Markets",
+      "category": "Earnings",
       "importance_score": 8,
-      "insight": "This matters because it indicates a potential rebound in tech stocks and stability in the yen."
+      "insight": "This matters because it shows the financial performance of a major company in the tech industry."
     },
     {
       "rank": 5,
-      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-      "source": "WSJ Markets",
-      "category": "Markets",
-      "importance_score": 9,
-      "insight": "This matters because it highlights the impact of AI-related news on the stock market."
+      "title": "Prudential Tops Estimates as Revenue From Asset Manager Soars",
+      "source": "Bloomberg Markets",
+      "category": "Earnings",
+      "importance_score": 8,
+      "insight": "This matters because it indicates the financial health of a major financial institution."
     }
   ],
-  "daily_summary": "The financial markets are experiencing a mix of trends, with some stocks rebounding and others sinking due to AI-related news. The Fed remains committed to combating inflation through rate hikes, and investors are shifting their focus towards the short-term yield curve.",
+  "daily_summary": "The financial news is dominated by stories about the Fed's stance on interest rates, inflation, and regulatory actions in the banking industry. Earnings reports from major companies like SpaceX and Prudential are also making headlines.",
   "key_themes": [
-    "AI",
+    "Fed Policy",
     "Inflation",
-    "Fed Policy"
+    "Earnings"
   ],
   "market_sentiment": "cautious",
-  "updated": "2026-08-04T00:12:25.291444",
+  "updated": "2026-08-05T00:09:47.963107",
   "sources_checked": 7,
-  "articles_processed": 33
+  "articles_processed": 35
 }
