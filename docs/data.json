@@ -3,53 +3,53 @@
   "top_stories": [
     {
       "rank": 1,
+      "title": "Odds the Fed will hike in September tumble following big July jobs miss",
+      "source": "CNBC Finance",
+      "category": "Fed Policy",
+      "importance_score": 9,
+      "insight": "The potential shift in Fed policy could impact interest rates and the overall economy."
+    },
+    {
+      "rank": 2,
       "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "This indicates a potential rate hike to combat inflation, which could impact the overall economy."
-    },
-    {
-      "rank": 2,
-      "title": "Fed's Musalem Expresses Preference to Raise Rates",
-      "source": "Bloomberg Markets",
-      "category": "Fed Policy",
-      "importance_score": 9,
-      "insight": "Another Fed official suggesting a rate hike, adding to the likelihood of increased interest rates."
+      "insight": "The Fed's stance on inflation could lead to changes in monetary policy."
     },
     {
       "rank": 3,
-      "title": "Traders on Kalshi now think it's likely that the S&P 500 will hit 8,000 in 2026",
-      "source": "CNBC Finance",
+      "title": "US economy unexpectedly sheds 23,000 jobs in July",
+      "source": "Financial Times",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "This prediction suggests a potential bull run in the market, but may also indicate overconfidence."
+      "insight": "The unexpected job loss could impact market trends and economic growth."
     },
     {
       "rank": 4,
-      "title": "Fujifilm Shares Tumble by a Record After Earnings Disappoint",
+      "title": "Dollar Ends Week at Lowest Since May as Rate-Hike Bets Fade",
       "source": "Bloomberg Markets",
-      "category": "Earnings",
+      "category": "Markets",
       "importance_score": 8,
-      "insight": "A significant drop in a major company's stock can have a ripple effect on the market."
+      "insight": "The decline in the dollar could affect international trade and investment."
     },
     {
       "rank": 5,
-      "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
-      "source": "CNBC Finance",
+      "title": "S&P 500 Has Best Week Since April After Jobs Data: Markets Wrap",
+      "source": "Bloomberg Markets",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "This warning from a major bank CEO indicates potential volatility in the market due to leveraged investments."
+      "insight": "The S&P 500's performance could indicate a shift in market sentiment."
     }
   ],
-  "daily_summary": "The market is bracing for potential volatility due to expected rate hikes and disappointing earnings from major companies. Fed officials are indicating a preference to raise rates, which could combat inflation but also impact the economy. Meanwhile, traders are predicting a potential bull run, but this may be tempered by warnings of overconfidence and market volatility.",
+  "daily_summary": "The market is reacting to the latest jobs data and potential changes in Fed policy, with the S&P 500 experiencing its best week since April and the dollar declining to its lowest point since May.",
   "key_themes": [
     "Fed Policy",
     "Inflation",
-    "Market Volatility"
+    "Markets"
   ],
-  "market_sentiment": "cautious",
-  "updated": "2026-08-07T01:42:31.840511",
+  "market_sentiment": "cautiously optimistic",
+  "updated": "2026-08-07T23:38:11.285803",
   "sources_checked": 7,
-  "articles_processed": 30
+  "articles_processed": 38
 }
