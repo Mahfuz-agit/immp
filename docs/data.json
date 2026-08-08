@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "top_stories": [
     {
       "rank": 1,
@@ -11,45 +11,45 @@
     },
     {
       "rank": 2,
+      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+      "source": "CNBC Finance",
+      "category": "Earnings",
+      "importance_score": 8,
+      "insight": "The deployment of Berkshire's cash hoard could lead to significant investments and market movements."
+    },
+    {
+      "rank": 3,
       "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "The Fed's stance on inflation could lead to changes in monetary policy."
-    },
-    {
-      "rank": 3,
-      "title": "US economy unexpectedly sheds 23,000 jobs in July",
-      "source": "Financial Times",
-      "category": "Markets",
-      "importance_score": 8,
-      "insight": "The unexpected job loss could impact market trends and economic growth."
+      "insight": "The Fed's willingness to act on inflation could lead to changes in interest rates and monetary policy."
     },
     {
       "rank": 4,
-      "title": "Dollar Ends Week at Lowest Since May as Rate-Hike Bets Fade",
-      "source": "Bloomberg Markets",
+      "title": "Traders on Kalshi now think it's likely that the S&P 500 will hit 8,000 in 2026",
+      "source": "CNBC Finance",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "The decline in the dollar could affect international trade and investment."
+      "insight": "The potential for the S&P 500 to reach 8,000 could indicate a strong market performance."
     },
     {
       "rank": 5,
-      "title": "S&P 500 Has Best Week Since April After Jobs Data: Markets Wrap",
-      "source": "Bloomberg Markets",
+      "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
+      "source": "CNBC Finance",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "The S&P 500's performance could indicate a shift in market sentiment."
+      "insight": "The hedge fund meltdown could be a sign of potential volatility in the markets."
     }
   ],
-  "daily_summary": "The market is reacting to the latest jobs data and potential changes in Fed policy, with the S&P 500 experiencing its best week since April and the dollar declining to its lowest point since May.",
+  "daily_summary": "The financial markets are experiencing significant shifts, with the Fed potentially changing its policy and Berkshire deploying its cash hoard. Inflation and interest rates remain key concerns, and market volatility is a possibility.",
   "key_themes": [
     "Fed Policy",
     "Inflation",
-    "Markets"
+    "Market Volatility"
   ],
-  "market_sentiment": "cautiously optimistic",
-  "updated": "2026-08-07T23:38:11.285803",
+  "market_sentiment": "cautious",
+  "updated": "2026-08-08T23:34:04.939991",
   "sources_checked": 7,
-  "articles_processed": 38
+  "articles_processed": 36
 }
