@@ -1,73 +1,55 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "top_stories": [
     {
       "rank": 1,
-      "title": "Goldman's co-head of global banking and markets says to stay invested",
+      "title": "Odds the Fed will hike in September tumble following big July jobs miss",
       "source": "CNBC Finance",
-      "category": "Markets",
+      "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "Investors are advised to stay invested despite market uncertainty."
+      "insight": "The Fed's decision to hike or not will significantly impact the market's direction."
     },
     {
       "rank": 2,
-      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
-      "source": "CNBC Finance",
-      "category": "Earnings",
-      "importance_score": 9,
-      "insight": "Berkshire's earnings increase and cash deployment could impact the market."
-    },
-    {
-      "rank": 3,
       "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
       "source": "CNBC Finance",
       "category": "Fed Policy",
       "importance_score": 9,
-      "insight": "The Fed's potential rate hike could impact inflation and the market."
+      "insight": "Inflation remains a concern, and the Fed's actions will be crucial in addressing it."
+    },
+    {
+      "rank": 3,
+      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+      "source": "CNBC Finance",
+      "category": "Earnings",
+      "importance_score": 8,
+      "insight": "Berkshire's earnings and deployment of cash will be closely watched by investors."
     },
     {
       "rank": 4,
-      "title": "Odds the Fed will hike in September tumble following big July jobs miss",
+      "title": "Traders on Kalshi now think it's likely that the S&P 500 will hit 8,000 in 2026",
       "source": "CNBC Finance",
-      "category": "Fed Policy",
+      "category": "Markets",
       "importance_score": 8,
-      "insight": "The Fed's decision on interest rates could be influenced by the July jobs report."
+      "insight": "The S&P 500's potential to reach 8,000 will have significant implications for the market."
     },
     {
       "rank": 5,
-      "title": "Gold Nears $4,400 as Traders Weigh Hormuz Standoff, Inflation",
+      "title": "China Earnings to Test Rotation From AI to Internet Stocks",
       "source": "Bloomberg Markets",
-      "category": "Markets",
+      "category": "Earnings",
       "importance_score": 8,
-      "insight": "Gold prices are rising due to geopolitical tensions and inflation concerns."
-    },
-    {
-      "rank": 6,
-      "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
-      "source": "Financial Times",
-      "category": "Markets",
-      "importance_score": 8,
-      "insight": "The AI financing deal could have a significant impact on the market and the tech industry."
-    },
-    {
-      "rank": 7,
-      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-      "source": "WSJ Markets",
-      "category": "Markets",
-      "importance_score": 8,
-      "insight": "The AI-related market downturn could have far-reaching consequences."
+      "insight": "China's earnings will be a key indicator of the market's rotation from AI to internet stocks."
     }
   ],
-  "daily_summary": "The market is experiencing uncertainty due to various factors, including the Fed's potential rate hike, inflation concerns, and the impact of AI on the market. Investors are advised to stay invested, but also be cautious of potential volatility.",
+  "daily_summary": "The market is closely watching the Fed's decision on interest rates, with odds of a hike in September decreasing. Earnings reports from major companies, such as Berkshire, will also be closely watched. The potential for the S&P 500 to reach 8,000 in 2026 is gaining traction among traders.",
   "key_themes": [
     "Fed Policy",
-    "Inflation",
-    "Markets",
     "Earnings",
-    "AI"
+    "Markets"
   ],
-  "market_sentiment": "cautious",
-  "updated": "2026-08-10T23:40:10.422906",
+  "market_sentiment": "bullish",
+  "updated": "2026-08-11T23:49:14.172256",
   "sources_checked": 7,
-  "articles_processed": 35
+  "articles_processed": 34
 }
