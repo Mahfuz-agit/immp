@@ -1,56 +1,56 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "top_stories": [
     {
       "rank": 1,
-      "title": "Odds the Fed will hike in September tumble following big July jobs miss",
-      "source": "CNBC Finance",
-      "category": "Fed Policy",
+      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+      "source": "WSJ Markets",
+      "category": "Markets",
       "importance_score": 9,
-      "insight": "The decrease in the likelihood of a Fed rate hike in September could lead to market volatility and impact investor decisions."
+      "insight": "The AI rout has sparked a broad sell-off in the stock market, with investors becoming increasingly cautious about the sector's prospects."
     },
     {
       "rank": 2,
-      "title": "US inflation falls to 3.4% in July",
+      "title": "US sells 30-year bonds at highest borrowing costs since 2001",
       "source": "Financial Times",
-      "category": "Inflation",
+      "category": "Markets",
       "importance_score": 9,
-      "insight": "The decrease in inflation could influence the Fed's decision on interest rates and have a significant impact on the economy."
+      "insight": "The high borrowing costs for 30-year bonds indicate a significant shift in market expectations for interest rates and inflation."
     },
     {
       "rank": 3,
-      "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
-      "source": "CNBC Finance",
+      "title": "Gold Steadies as Traders Weigh Fed Rate Path and Mideast Tension",
+      "source": "Bloomberg Markets",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "The endorsement of Jensen Huang's AI concept could lead to significant investments in the technology and impact the market."
+      "insight": "The stability in gold prices reflects the ongoing uncertainty about the Fed's rate path and the potential impact of geopolitical tensions on the market."
     },
     {
       "rank": 4,
-      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+      "title": "JPMorgan is investing big in the 2028 LA Olympics",
       "source": "CNBC Finance",
-      "category": "Earnings",
+      "category": "Banking",
       "importance_score": 8,
-      "insight": "The deployment of Berkshire's cash hoard could lead to significant investments and impact the market."
+      "insight": "JPMorgan's investment in the 2028 LA Olympics highlights the bank's efforts to expand its presence in the sports and entertainment sector."
     },
     {
       "rank": 5,
-      "title": "ANZ Profit Rises on Deposits, Mortgage Applications Drop",
+      "title": "Reddit Shares Surge on S&P 500 Inclusion Later This Month",
       "source": "Bloomberg Markets",
-      "category": "Banking",
-      "importance_score": 7,
-      "insight": "The increase in ANZ's profit could be a positive sign for the banking industry, but the drop in mortgage applications could be a concern."
+      "category": "Markets",
+      "importance_score": 8,
+      "insight": "The inclusion of Reddit in the S&P 500 index is expected to increase the company's visibility and attract more investors."
     }
   ],
-  "daily_summary": "The market is experiencing a mix of positive and negative news, with the decrease in inflation and the Fed's potential decision on interest rates being major factors. The endorsement of Jensen Huang's AI concept and the deployment of Berkshire's cash hoard could also have a significant impact on the market.",
+  "daily_summary": "The stock market experienced a significant decline due to a broad AI rout, while the bond market saw high borrowing costs for 30-year bonds. Gold prices steadied as traders weighed the Fed's rate path and geopolitical tensions. JPMorgan's investment in the 2028 LA Olympics and Reddit's inclusion in the S&P 500 index were also notable developments.",
   "key_themes": [
-    "Inflation",
-    "Fed Policy",
-    "AI Investments",
-    "Earnings"
+    "AI",
+    "interest rates",
+    "geopolitical tensions",
+    "banking sector expansion"
   ],
-  "market_sentiment": "neutral",
-  "updated": "2026-08-12T23:48:46.131672",
+  "market_sentiment": "cautious",
+  "updated": "2026-08-13T23:49:10.382438",
   "sources_checked": 7,
-  "articles_processed": 29
+  "articles_processed": 35
 }
