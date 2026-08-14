@@ -1,56 +1,55 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "top_stories": [
     {
       "rank": 1,
-      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-      "source": "WSJ Markets",
+      "title": "Stocks Halt Rally After Signs of Consumer Slowdown",
+      "source": "Bloomberg Markets",
       "category": "Markets",
       "importance_score": 9,
-      "insight": "The AI rout has sparked a broad sell-off in the stock market, with investors becoming increasingly cautious about the sector's prospects."
+      "insight": "The consumer slowdown could impact the overall market rally."
     },
     {
       "rank": 2,
-      "title": "US sells 30-year bonds at highest borrowing costs since 2001",
+      "title": "Jane Street suffers $15bn hit after meltdown at Situational Awareness",
       "source": "Financial Times",
       "category": "Markets",
       "importance_score": 9,
-      "insight": "The high borrowing costs for 30-year bonds indicate a significant shift in market expectations for interest rates and inflation."
+      "insight": "The significant loss could have a ripple effect on the market."
     },
     {
       "rank": 3,
-      "title": "Gold Steadies as Traders Weigh Fed Rate Path and Mideast Tension",
-      "source": "Bloomberg Markets",
+      "title": "Michael Burry doubles down on Nvidia short after $500B chip deal",
+      "source": "Yahoo Finance",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "The stability in gold prices reflects the ongoing uncertainty about the Fed's rate path and the potential impact of geopolitical tensions on the market."
+      "insight": "The short position could indicate a potential market shift."
     },
     {
       "rank": 4,
-      "title": "JPMorgan is investing big in the 2028 LA Olympics",
-      "source": "CNBC Finance",
-      "category": "Banking",
+      "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
+      "source": "WSJ Markets",
+      "category": "Markets",
       "importance_score": 8,
-      "insight": "JPMorgan's investment in the 2028 LA Olympics highlights the bank's efforts to expand its presence in the sports and entertainment sector."
+      "insight": "The yield direction could impact investment decisions."
     },
     {
       "rank": 5,
-      "title": "Reddit Shares Surge on S&P 500 Inclusion Later This Month",
-      "source": "Bloomberg Markets",
+      "title": "Investors pile back into US stocks as bullishness returns to Wall Street",
+      "source": "Financial Times",
       "category": "Markets",
       "importance_score": 8,
-      "insight": "The inclusion of Reddit in the S&P 500 index is expected to increase the company's visibility and attract more investors."
+      "insight": "The return of bullishness could lead to a market upswing."
     }
   ],
-  "daily_summary": "The stock market experienced a significant decline due to a broad AI rout, while the bond market saw high borrowing costs for 30-year bonds. Gold prices steadied as traders weighed the Fed's rate path and geopolitical tensions. JPMorgan's investment in the 2028 LA Olympics and Reddit's inclusion in the S&P 500 index were also notable developments.",
+  "daily_summary": "The market experienced a halt in its rally due to signs of a consumer slowdown, while some investors remain bullish on US stocks.",
   "key_themes": [
-    "AI",
-    "interest rates",
-    "geopolitical tensions",
-    "banking sector expansion"
+    "Market Volatility",
+    "Investor Sentiment",
+    "Economic Indicators"
   ],
   "market_sentiment": "cautious",
-  "updated": "2026-08-13T23:49:10.382438",
+  "updated": "2026-08-14T23:26:36.488504",
   "sources_checked": 7,
-  "articles_processed": 35
+  "articles_processed": 31
 }
