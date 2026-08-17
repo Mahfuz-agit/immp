@@ -1,55 +1,8 @@
 {
-  "date": "2026-08-16",
-  "top_stories": [
-    {
-      "rank": 1,
-      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-      "source": "WSJ Markets",
-      "category": "Markets",
-      "importance_score": 9,
-      "insight": "The AI rout has sparked a broad sell-off in the stock market, with investors becoming increasingly risk-averse."
-    },
-    {
-      "rank": 2,
-      "title": "Bonds Face a Bigger Threat Than the Fed as Global Rates Climb",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
-      "importance_score": 8,
-      "insight": "Rising global interest rates pose a significant threat to the bond market, potentially leading to a decrease in bond prices."
-    },
-    {
-      "rank": 3,
-      "title": "US 20-Year Bond Sale to Test Demand as Yield Curve Steepens",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
-      "importance_score": 8,
-      "insight": "The upcoming 20-year bond sale will be a key test of demand, as the yield curve continues to steepen."
-    },
-    {
-      "rank": 4,
-      "title": "Fed’s Internal Rate Debate Faces New Scrutiny",
-      "source": "Bloomberg Markets",
-      "category": "Fed Policy",
-      "importance_score": 8,
-      "insight": "The Federal Reserve's internal rate debate is under scrutiny, with implications for future monetary policy decisions."
-    },
-    {
-      "rank": 5,
-      "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walmart Looms",
-      "source": "Yahoo Finance",
-      "category": "Markets",
-      "importance_score": 7,
-      "insight": "Nvidia is leading the charge in the stock market, with several other stocks showing promise, while Walmart's earnings are highly anticipated."
-    }
-  ],
-  "daily_summary": "The stock market is experiencing a broad sell-off due to an AI rout, while the bond market is facing threats from rising global interest rates. The Federal Reserve's internal rate debate is also under scrutiny, with implications for future monetary policy decisions.",
-  "key_themes": [
-    "AI Rout",
-    "Rising Interest Rates",
-    "Federal Reserve Policy"
-  ],
-  "market_sentiment": "bearish",
-  "updated": "2026-08-16T23:25:21.260442",
+  "date": "2026-08-17",
+  "error": "Groq processing failed",
+  "raw_count": 28,
+  "updated": "2026-08-17T23:27:47.362644",
   "sources_checked": 7,
   "articles_processed": 28
 }
