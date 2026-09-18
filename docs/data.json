@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "error": "Groq processing failed",
-  "raw_count": 26,
-  "updated": "2026-09-17T01:13:48.120864",
+  "raw_count": 24,
+  "updated": "2026-09-18T01:09:12.883321",
   "sources_checked": 7,
-  "articles_processed": 26
+  "articles_processed": 24
 }
